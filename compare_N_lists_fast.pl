@@ -1,6 +1,6 @@
-print "Questo programma confronta N liste tabulate sulla base dei valori della prima colonna, le liste sono elecate una per riga in un file che rappresenta l'unico argomento del programma e vengono appaiate in una matrice\n";
-print "ATTENZIONE! LE LISTE NON DEVONO CONTENERE ELEMENTI RIDONDANTI\nLE LISTE DEVO AVERE LO STESSO NUMERO DI COLONNE\n\n";
-open (Z, "> liste_sommate.txt"); #file di output
+print "This scripts compare N tabulated lists according to the values reported in the first column, lists are reported one per line in a file representing the only argument of the script - lists are merged in a matrix and saved in file merged_lists.txt\n";
+print "BEWARE! ALL THE LISTS MUST HAVE THE SAME NUMBER OF COLUMNS\nDON'T INCLUDE REDUNDANT ELEMENTS IN THE LISTS, ALL THE ELEMENTS HAVE TO REPORTED ONCE\n\n";
+open (Z, "> merged_lists.txt"); #file di output
 
 #1#################################
 #conto il numero di liste da confrontare
@@ -22,7 +22,7 @@ $numlis=$i;
 #Serve un elemento che chiamerò $rigariemp che abbia lo stesso numero di elementi rispetto al numero di colonne
 #delle liste cosi che poi possa riempire gli elementi vuoti nella lista globale ad ogni passaggio per mantenere l'appaiamento corretto
 
-print "Inserire il numero di colonne delle liste\n";
+print "Insert the number of columns that your lists have\n";
 $ellis = <STDIN>; #questa variabile contiene il numero di colonne di ogni lista
 chomp $ellis;
 $ii=0;
@@ -38,7 +38,7 @@ print "$rigariemp\n";
 #su cui poi verranno allineate le altre liste
 #per fare questo userò il programma singlefeaturecounter.pl ma senza inserire nell'output il numero di ognuno degli elementi
 
-print "Inizio riunione delle liste\n";
+print "Start lists merging\n";
 for ($a=0;$a<$i;$a++){
     print "Lista $a\n\n";
     $lis1=$liststobecomp[$a];
@@ -53,24 +53,24 @@ for ($a=0;$a<$i;$a++){
         #print "$riga\n";
     }
 }
-print "Lista iniziale\n@LISTA1\n\n";
+print "Initial list\n@LISTA1\n\n";
 
-print "Generare una lista univoca di nomi dei geni da usare poi per concatenare i singoli esoni del gene\n";
+#print "Generare una lista univoca di nomi dei geni da usare poi per concatenare i singoli esoni del gene\n";
 my %counts1;
 ++$counts1{$_} for @LISTA1;
 my @OUTPUT = keys(%counts1);
 
-print "Lista dopo rimozione della ridondanza\n@OUTPUT\n";
+print "List after redudancy removal\n@OUTPUT\n";
 
 #4#################################
 #Nell'ultima parte, ciclo su ognuno degli elementi dell'array ARGV e comparo ognuno di essi alla lista totale generata
-print "\nInizio l'allineamento delle liste tutte assieme\n";
+print "\nStarting lists merging\n";
 $a=0;
 #$i=0;
 #attenzione mi serve un elemento che alla fine di ogni passaggio incrementi e mi consenta di capire quali sono
 #le righe su cui non è stato aggiunto nulla perchè non c'era lìelemento corrispondente
 for ($a=0;$a<$numlis;$a++){
-    print "Passaggio $a\n\n";
+    print "Step $a\n\n";
     $lis1="";
     @LISTA1=();
     #@notcommon=(); #svuoto l'array dei non comuni
