@@ -1,0 +1,1113 @@
+KEGG_Foam_pathway	KEGG_Foam_pathway	Univocal number of KEGG codes	Total number of KEGG codes	Univocal number of genes	Total number of genes	Output type
+M00001	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	12	20	19	20	KEGG_MODULE
+M00002	Glycolysis, core module involving three-carbon compounds	8	12	11	12	KEGG_MODULE
+M00003	Gluconeogenesis, oxaloacetate => fructose-6P	0	0	0	0	KEGG_MODULE
+M00004	Pentose phosphate pathway (Pentose phosphate cycle)	0	0	0	0	KEGG_MODULE
+M00005	PRPP biosynthesis, ribose 5P => PRPP	0	0	0	0	KEGG_MODULE
+M00006	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	0	0	0	0	KEGG_MODULE
+M00007	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	0	0	0	0	KEGG_MODULE
+M00008	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	0	0	0	0	KEGG_MODULE
+M00009	Citrate cycle (TCA cycle, Krebs cycle)	0	0	0	0	KEGG_MODULE
+M00010	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	0	0	0	0	KEGG_MODULE
+M00011	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	0	0	0	0	KEGG_MODULE
+M00012	Glyoxylate cycle	0	0	0	0	KEGG_MODULE
+M00015	Proline biosynthesis, glutamate => proline	0	0	0	0	KEGG_MODULE
+M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	0	0	0	0	KEGG_MODULE
+M00017	Methionine biosynthesis, apartate => homoserine => methionine	0	0	0	0	KEGG_MODULE
+M00018	Threonine biosynthesis, aspartate => homoserine => threonine	0	0	0	0	KEGG_MODULE
+M00019	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	0	0	0	0	KEGG_MODULE
+M00020	Serine biosynthesis, glycerate-3P => serine	0	0	0	0	KEGG_MODULE
+M00021	Cysteine biosynthesis, serine => cysteine	0	0	0	0	KEGG_MODULE
+M00022	Shikimate pathway, phosphoenolpyruvate + erythrose-4P => chorismate	0	0	0	0	KEGG_MODULE
+M00023	Tryptophan biosynthesis, chorismate => tryptophan	0	0	0	0	KEGG_MODULE
+M00024	Phenylalanine biosynthesis, chorismate => phenylalanine	0	0	0	0	KEGG_MODULE
+M00025	Tyrosine biosynthesis, chorismate => tyrosine	0	0	0	0	KEGG_MODULE
+M00026	Histidine biosynthesis, PRPP => histidine	0	0	0	0	KEGG_MODULE
+M00027	GABA (gamma-Aminobutyrate) shunt	0	0	0	0	KEGG_MODULE
+M00028	Ornithine biosynthesis, glutamate => ornithine	0	0	0	0	KEGG_MODULE
+M00031	Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine	0	0	0	0	KEGG_MODULE
+M00033	Ectoine biosynthesis, aspartate => ectoine	0	0	0	0	KEGG_MODULE
+M00034	Methionine salvage pathway	0	0	0	0	KEGG_MODULE
+M00035	Methionine degradation	0	0	0	0	KEGG_MODULE
+M00036	Leucine degradation, leucine => acetoacetate + acetyl-CoA	0	0	0	0	KEGG_MODULE
+M00038	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	0	0	0	0	KEGG_MODULE
+M00040	Tyrosine biosynthesis, prephanate => pretyrosine => tyrosine	0	0	0	0	KEGG_MODULE
+M00045	Histidine degradation, histidine => N-formiminoglutamate => glutamate	0	0	0	0	KEGG_MODULE
+M00046	Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate	0	0	0	0	KEGG_MODULE
+M00048	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	0	0	0	0	KEGG_MODULE
+M00049	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	0	0	0	0	KEGG_MODULE
+M00050	Guanine ribonucleotide biosynthesis IMP => GDP,GTP	0	0	0	0	KEGG_MODULE
+M00051	Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP	0	0	0	0	KEGG_MODULE
+M00052	Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP	0	0	0	0	KEGG_MODULE
+M00053	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	0	0	0	0	KEGG_MODULE
+M00060	Lipopolysaccharide biosynthesis, KDO2-lipid A	0	0	0	0	KEGG_MODULE
+M00061	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P	0	0	0	0	KEGG_MODULE
+M00063	CMP-KDO biosynthesis	0	0	0	0	KEGG_MODULE
+M00064	ADP-L-glycero-D-manno-heptose biosynthesis	0	0	0	0	KEGG_MODULE
+M00080	Lipopolysaccharide biosynthesis, inner core => outer core => O-antigen	0	0	0	0	KEGG_MODULE
+M00082	Fatty acid biosynthesis, initiation	0	0	0	0	KEGG_MODULE
+M00083	Fatty acid biosynthesis, elongation	0	0	0	0	KEGG_MODULE
+M00086	beta-Oxidation, acyl-CoA synthesis	0	0	0	0	KEGG_MODULE
+M00087	beta-Oxidation	0	0	0	0	KEGG_MODULE
+M00088	Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	0	0	0	0	KEGG_MODULE
+M00091	Phosphatidylcholine (PC) biosynthesis, PE => PC	0	0	0	0	KEGG_MODULE
+M00093	Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE	0	0	0	0	KEGG_MODULE
+M00095	C5 isoprenoid biosynthesis, mevalonate pathway	0	0	0	0	KEGG_MODULE
+M00096	C5 isoprenoid biosynthesis, non-mevalonate pathway	0	0	0	0	KEGG_MODULE
+M00112	Tocopherol/tocotorienol biosynthesis	0	0	0	0	KEGG_MODULE
+M00115	NAD biosynthesis, aspartate => NAD	0	0	0	0	KEGG_MODULE
+M00116	Menaquinone biosynthesis, chorismate => menaquinone	0	0	0	0	KEGG_MODULE
+M00117	Ubiquinone biosynthesis, prokaryotes, chorismate => ubiquinone	0	0	0	0	KEGG_MODULE
+M00118	Glutathione biosynthesis, glutamate => glutathione	0	0	0	0	KEGG_MODULE
+M00119	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	0	0	0	0	KEGG_MODULE
+M00120	Coenzyme A biosynthesis, pantothenate => CoA	0	0	0	0	KEGG_MODULE
+M00121	Heme biosynthesis, glutamate => protoheme/siroheme	0	0	0	0	KEGG_MODULE
+M00122	Cobalamin biosynthesis, cobinamide => cobalamin	0	0	0	0	KEGG_MODULE
+M00123	Biotin biosynthesis, pimeloyl-ACP/CoA => biotin	0	0	0	0	KEGG_MODULE
+M00124	Pyridoxal biosynthesis, erythrose-4P => pyridoxal-5P	0	0	0	0	KEGG_MODULE
+M00125	Riboflavin biosynthesis, GTP => riboflavin/FMN/FAD	0	0	0	0	KEGG_MODULE
+M00126	Tetrahydrofolate biosynthesis, GTP => THF	0	0	0	0	KEGG_MODULE
+M00127	Thiamine biosynthesis, AIR => thiamine-P/thiamine-2P	0	0	0	0	KEGG_MODULE
+M00133	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	0	0	0	0	KEGG_MODULE
+M00134	Polyamine biosynthesis, arginine => ornithine => putrescine	0	0	0	0	KEGG_MODULE
+M00135	GABA biosynthesis, eukaryotes, putrescine => GABA	0	0	0	0	KEGG_MODULE
+M00136	GABA biosynthesis, prokaryotes, putrescine => GABA	0	0	0	0	KEGG_MODULE
+M00140	C1-unit interconversion, prokaryotes	0	0	0	0	KEGG_MODULE
+M00141	C1-unit interconversion, eukaryotes	0	0	0	0	KEGG_MODULE
+M00144	NADH:quinone oxidoreductase, prokaryotes	0	0	0	0	KEGG_MODULE
+M00145	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	0	0	0	0	KEGG_MODULE
+M00149	Succinate dehydrogenase, prokaryotes	0	0	0	0	KEGG_MODULE
+M00150	Fumarate reductase, prokaryotes	0	0	0	0	KEGG_MODULE
+M00151	Cytochrome bc1 complex respiratory unit	0	0	0	0	KEGG_MODULE
+M00153	Cytochrome d ubiquinol oxidase	0	0	0	0	KEGG_MODULE
+M00155	Cytochrome c oxidase, prokaryotes	0	0	0	0	KEGG_MODULE
+M00156	Cytochrome c oxidase, cbb3-type	0	0	0	0	KEGG_MODULE
+M00157	F-type ATPase, prokaryotes and chloroplasts	0	0	0	0	KEGG_MODULE
+M00159	V/A-type ATPase, prokaryotes	0	0	0	0	KEGG_MODULE
+M00161	Photosystem II	0	0	0	0	KEGG_MODULE
+M00162	Cytochrome b6f complex	0	0	0	0	KEGG_MODULE
+M00163	Photosystem I	0	0	0	0	KEGG_MODULE
+M00165	Reductive pentose phosphate cycle (Calvin cycle)	0	0	0	0	KEGG_MODULE
+M00166	Reductive pentose phosphate cycle, ribulose-5P => glyceraldehyde-3P	0	0	0	0	KEGG_MODULE
+M00167	Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	0	0	0	0	KEGG_MODULE
+M00168	CAM (Crassulacean acid metabolism), dark	0	0	0	0	KEGG_MODULE
+M00169	CAM (Crassulacean acid metabolism), light	0	0	0	0	KEGG_MODULE
+M00173	Reductive citrate cycle (Arnon-Buchanan cycle)	0	0	0	0	KEGG_MODULE
+M00174	Methane oxidation, methanotroph, methane => formaldehyde	0	0	0	0	KEGG_MODULE
+M00175	Nitrogen fixation, nitrogen => ammonia	0	0	0	0	KEGG_MODULE
+M00176	Assimilatory sulfate reduction, sulfate => H2S	0	0	0	0	KEGG_MODULE
+M00178	Ribosome, bacteria	0	0	0	0	KEGG_MODULE
+M00179	Ribosome, archaea	0	0	0	0	KEGG_MODULE
+M00183	RNA polymerase, bacteria	0	0	0	0	KEGG_MODULE
+M00184	RNA polymerase, archaea	0	0	0	0	KEGG_MODULE
+M00185	Sulfate transport system	0	0	0	0	KEGG_MODULE
+M00186	Tungstate transport system	0	0	0	0	KEGG_MODULE
+M00188	NitT/TauT family transport system	0	0	0	0	KEGG_MODULE
+M00189	Molybdate transport system	0	0	0	0	KEGG_MODULE
+M00190	Iron(III) transport system	0	0	0	0	KEGG_MODULE
+M00191	Thiamine transport system	0	0	0	0	KEGG_MODULE
+M00192	Putative thiamine transport system	0	0	0	0	KEGG_MODULE
+M00193	Putative spermidine/putrescine transport system	0	0	0	0	KEGG_MODULE
+M00194	Maltose/maltodextrin transport system	0	0	0	0	KEGG_MODULE
+M00196	Raffinose/stachyose/melibiose transport system	0	0	0	0	KEGG_MODULE
+M00197	Putative fructooligosaccharide transport system	0	0	0	0	KEGG_MODULE
+M00198	Putative sn-glycerol-phosphate transport system	0	0	0	0	KEGG_MODULE
+M00199	L-Arabinose/lactose transport system	0	0	0	0	KEGG_MODULE
+M00200	Putative sorbitol/mannitol transport system	0	0	0	0	KEGG_MODULE
+M00201	alpha-Glucoside transport system	0	0	0	0	KEGG_MODULE
+M00202	Oligogalacturonide transport system	0	0	0	0	KEGG_MODULE
+M00203	Glucose/arabinose transport system	0	0	0	0	KEGG_MODULE
+M00204	Trehalose/maltose transport system	0	0	0	0	KEGG_MODULE
+M00205	N-Acetylglucosamine transport system	0	0	0	0	KEGG_MODULE
+M00206	Cellobiose transport system	0	0	0	0	KEGG_MODULE
+M00207	Putative multiple sugar transport system	3	6	6	6	KEGG_MODULE
+M00208	Glycine betaine/proline transport system	3	3	3	3	KEGG_MODULE
+M00209	Osmoprotectant transport system	1	1	1	1	KEGG_MODULE
+M00210	Phospholipid transport system	0	0	0	0	KEGG_MODULE
+M00211	Putative ABC transport system	0	0	0	0	KEGG_MODULE
+M00212	Ribose transport system	0	0	0	0	KEGG_MODULE
+M00213	L-Arabinose transport system	0	0	0	0	KEGG_MODULE
+M00214	Methyl-galactoside transport system	0	0	0	0	KEGG_MODULE
+M00215	D-Xylose transport system	0	0	0	0	KEGG_MODULE
+M00216	Multiple sugar transport system	0	0	0	0	KEGG_MODULE
+M00217	D-Allose transport system	0	0	0	0	KEGG_MODULE
+M00218	Fructose transport system	0	0	0	0	KEGG_MODULE
+M00219	AI-2 transport system	0	0	0	0	KEGG_MODULE
+M00220	Rhamnose transport system	0	0	0	0	KEGG_MODULE
+M00221	Putative simple sugar transport system	1	4	4	4	KEGG_MODULE
+M00222	Phosphate transport system	4	4	4	4	KEGG_MODULE
+M00223	Phosphonate transport system	1	4	4	4	KEGG_MODULE
+M00224	Fluoroquinolone transport system	0	0	0	0	KEGG_MODULE
+M00225	Lysine/arginine/ornithine transport system	0	0	0	0	KEGG_MODULE
+M00226	Histidine transport system	0	0	0	0	KEGG_MODULE
+M00227	Glutamine transport system	0	0	0	0	KEGG_MODULE
+M00228	Putative glutamine transport system	1	1	1	1	KEGG_MODULE
+M00229	Arginine transport system	0	0	0	0	KEGG_MODULE
+M00230	Glutamate/aspartate transport system	0	0	0	0	KEGG_MODULE
+M00231	Octopine/nopaline transport system	0	0	0	0	KEGG_MODULE
+M00232	General L-amino acid transport system	0	0	0	0	KEGG_MODULE
+M00233	Glutamate transport system	0	0	0	0	KEGG_MODULE
+M00234	Cystine transport system	0	0	0	0	KEGG_MODULE
+M00235	Arginine/ornithine transport system	0	0	0	0	KEGG_MODULE
+M00236	Putative polar amino acid transport system	3	10	8	10	KEGG_MODULE
+M00237	Branched-chain amino acid transport system	5	10	10	10	KEGG_MODULE
+M00238	D-Methionine transport system	1	1	1	1	KEGG_MODULE
+M00239	Peptides/nickel transport system	5	13	11	13	KEGG_MODULE
+M00240	Iron complex transport system	2	5	5	5	KEGG_MODULE
+M00241	Vitamin B12 transport system	0	0	0	0	KEGG_MODULE
+M00242	Zinc transport system	3	3	3	3	KEGG_MODULE
+M00243	Manganese/iron transport system	0	0	0	0	KEGG_MODULE
+M00244	Putative zinc/manganese transport system	0	0	0	0	KEGG_MODULE
+M00245	Cobalt/nickel transport system	3	10	10	10	KEGG_MODULE
+M00246	Nickel transport system	3	10	10	10	KEGG_MODULE
+M00247	Putative ABC transport system	2	3	3	3	KEGG_MODULE
+M00249	Capsular polysaccharide transport system	0	0	0	0	KEGG_MODULE
+M00250	Lipopolysaccharide transport system	0	0	0	0	KEGG_MODULE
+M00251	Teichoic acid transport system	0	0	0	0	KEGG_MODULE
+M00252	Lipooligosaccharide transport system	0	0	0	0	KEGG_MODULE
+M00253	Sodium transport system	0	0	0	0	KEGG_MODULE
+M00254	ABC-2 type transport system	2	9	9	9	KEGG_MODULE
+M00255	Lipoprotein-releasing system	0	0	0	0	KEGG_MODULE
+M00256	Cell division transport system	2	2	2	2	KEGG_MODULE
+M00257	Hemin transport system	0	0	0	0	KEGG_MODULE
+M00258	Putative ABC transport system	2	9	9	9	KEGG_MODULE
+M00259	Heme transport system	0	0	0	0	KEGG_MODULE
+M00260	DNA polymerase III complex, bacteria	7	24	14	24	KEGG_MODULE
+M00264	DNA polymerase II complex, archaea	1	1	1	1	KEGG_MODULE
+M00265	PTS system, glucose-specific II component	0	0	0	0	KEGG_MODULE
+M00266	PTS system, maltose/glucose-specific II component	0	0	0	0	KEGG_MODULE
+M00267	PTS system, N-acetylglucosamine-specific II component	0	0	0	0	KEGG_MODULE
+M00268	PTS system, alpha-glucoside-specific II component	0	0	0	0	KEGG_MODULE
+M00269	PTS system, sucrose-specific II component	0	0	0	0	KEGG_MODULE
+M00270	PTS system, trehalose-specific II component	0	0	0	0	KEGG_MODULE
+M00271	PTS system, beta-glucoside-specific II component	0	0	0	0	KEGG_MODULE
+M00272	PTS system, beta-glucoside (arbutin/salicin/cellobiose)-specific II component	0	0	0	0	KEGG_MODULE
+M00273	PTS system, fructose-specific II component	0	0	0	0	KEGG_MODULE
+M00274	PTS system, mannitol-specific II component	0	0	0	0	KEGG_MODULE
+M00275	PTS system, cellobiose-specific II component	0	0	0	0	KEGG_MODULE
+M00276	PTS system, mannose-specific II component	0	0	0	0	KEGG_MODULE
+M00277	PTS system, N-acetylgalactosamine-specific II component	0	0	0	0	KEGG_MODULE
+M00278	PTS system, sorbose-specific II component	0	0	0	0	KEGG_MODULE
+M00279	PTS system, galactitol-specific II component	0	0	0	0	KEGG_MODULE
+M00280	PTS system, glucitol/sorbitol-specific II component	0	0	0	0	KEGG_MODULE
+M00281	PTS system, lactose-specific II component	0	0	0	0	KEGG_MODULE
+M00282	PTS system, D-glucosamine-specific II component	0	0	0	0	KEGG_MODULE
+M00283	PTS system, ascorbate-specific II component	0	0	0	0	KEGG_MODULE
+M00287	PTS system, galactosamine-specific II component	0	0	0	0	KEGG_MODULE
+M00298	Multidrug/hemolysin transport system	0	0	0	0	KEGG_MODULE
+M00299	Spermidine/putrescine transport system	4	4	4	4	KEGG_MODULE
+M00300	Putrescine transport system	0	0	0	0	KEGG_MODULE
+M00301	Mannopine transport system	0	0	0	0	KEGG_MODULE
+M00302	2-Aminoethylphosphonate transport system	0	0	0	0	KEGG_MODULE
+M00303	PTS system, N-acetylmuramic acid-specific II component	0	0	0	0	KEGG_MODULE
+M00304	PTS system, fructose-specific II component	0	0	0	0	KEGG_MODULE
+M00305	PTS system, 2-O-A-mannosyl-D-glycerate-specific II component	0	0	0	0	KEGG_MODULE
+M00306	PTS system, fructose-specific II-like component	0	0	0	0	KEGG_MODULE
+M00307	Pyruvate oxidation, pyruvate => acetyl-CoA	5	7	6	7	KEGG_MODULE
+M00308	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	4	5	5	5	KEGG_MODULE
+M00309	Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate	0	0	0	0	KEGG_MODULE
+M00314	Bacitracin transport system	0	0	0	0	KEGG_MODULE
+M00315	Uncharacterized ABC transport system	0	0	0	0	KEGG_MODULE
+M00316	Manganese transport system	0	0	0	0	KEGG_MODULE
+M00317	Manganese/iron transport system	0	0	0	0	KEGG_MODULE
+M00318	Iron/zinc/manganese/copper transport system	0	0	0	0	KEGG_MODULE
+M00319	Manganese/zinc/iron transport system	0	0	0	0	KEGG_MODULE
+M00320	Lipopolysaccharide export system	0	0	0	0	KEGG_MODULE
+M00321	Bicarbonate transport system	0	0	0	0	KEGG_MODULE
+M00322	Neutral amino acid transport system	0	0	0	0	KEGG_MODULE
+M00323	Urea transport system	0	0	0	0	KEGG_MODULE
+M00324	Dipeptide transport system	0	0	0	0	KEGG_MODULE
+M00325	alpha-Hemolysin/cyclolysin transport system	0	0	0	0	KEGG_MODULE
+M00326	RTX toxin transport system	0	0	0	0	KEGG_MODULE
+M00327	S-Layer protein transport system	0	0	0	0	KEGG_MODULE
+M00328	Hemophore/metalloprotease transport system	0	0	0	0	KEGG_MODULE
+M00329	Multiple protein transport system	0	0	0	0	KEGG_MODULE
+M00330	Adhesin protein transport system	0	0	0	0	KEGG_MODULE
+M00331	Type II general secretion pathway	1	1	1	1	KEGG_MODULE
+M00332	Type III secretion system	0	0	0	0	KEGG_MODULE
+M00333	Type IV secretion system	0	0	0	0	KEGG_MODULE
+M00334	Type VI secretion system	0	0	0	0	KEGG_MODULE
+M00335	Sec (secretion) system	0	0	0	0	KEGG_MODULE
+M00336	Twin-arginine translocation (Tat) system	0	0	0	0	KEGG_MODULE
+M00338	Cysteine biosynthesis, homocysteine + serine => cysteine	0	0	0	0	KEGG_MODULE
+M00339	RaxAB-RaxC type I secretion system	0	0	0	0	KEGG_MODULE
+M00342	Bacterial proteasome	0	0	0	0	KEGG_MODULE
+M00343	Archaeal proteasome	0	0	0	0	KEGG_MODULE
+M00345	Formaldehyde assimilation, ribulose monophosphate pathway	2	5	5	5	KEGG_MODULE
+M00346	Formaldehyde assimilation, serine pathway	4	4	4	4	KEGG_MODULE
+M00348	Glutathione transport system	0	0	0	0	KEGG_MODULE
+M00349	Microcin C transport system	0	0	0	0	KEGG_MODULE
+M00356	Methanogenesis, methanol => methane	3	14	14	14	KEGG_MODULE
+M00357	Methanogenesis, acetate => methane	6	20	20	20	KEGG_MODULE
+M00358	Coenzyme M biosynthesis	0	0	0	0	KEGG_MODULE
+M00359	Aminoacyl-tRNA biosynthesis, eukaryotes	0	0	0	0	KEGG_MODULE
+M00360	Aminoacyl-tRNA biosynthesis, prokaryotes	0	0	0	0	KEGG_MODULE
+M00361	Nucleotide sugar biosynthesis, eukaryotes	5	15	15	15	KEGG_MODULE
+M00362	Nucleotide sugar biosynthesis, prokaryotes	7	23	19	23	KEGG_MODULE
+M00363	EHEC pathogenicity signature, Shiga toxin	0	0	0	0	KEGG_MODULE
+M00364	C10-C20 isoprenoid biosynthesis, bacteria	0	0	0	0	KEGG_MODULE
+M00365	C10-C20 isoprenoid biosynthesis, archaea	0	0	0	0	KEGG_MODULE
+M00373	Ethylmalonyl pathway	5	7	5	7	KEGG_MODULE
+M00374	Dicarboxylate-hydroxybutyrate cycle	15	31	26	31	KEGG_MODULE
+M00375	Hydroxypropionate-hydroxybutylate cycle	5	7	5	7	KEGG_MODULE
+M00376	3-Hydroxypropionate bi-cycle	6	15	11	15	KEGG_MODULE
+M00377	Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	4	6	4	6	KEGG_MODULE
+M00378	F420 biosynthesis	0	0	0	0	KEGG_MODULE
+M00390	Exosome, archaea	0	0	0	0	KEGG_MODULE
+M00394	RNA degradosome	2	4	4	4	KEGG_MODULE
+M00416	Cytochrome aa3-600 menaquinol oxidase	0	0	0	0	KEGG_MODULE
+M00417	Cytochrome o ubiquinol oxidase	0	0	0	0	KEGG_MODULE
+M00418	Toluene degradation, anaerobic, toluene => benzoyl-CoA	0	0	0	0	KEGG_MODULE
+M00419	Cymene degradation, p-cymene => p-cumate	0	0	0	0	KEGG_MODULE
+M00422	Acetyl-CoA pathway, CO2 => acetyl-CoA	2	2	2	2	KEGG_MODULE
+M00423	Molybdate/tungstate transport system	0	0	0	0	KEGG_MODULE
+M00429	Competence-related DNA transformation transporter	2	2	2	2	KEGG_MODULE
+M00432	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	4	8	6	8	KEGG_MODULE
+M00433	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	1	1	1	1	KEGG_MODULE
+M00434	PhoR-PhoB (phosphate starvation response) two-component regulatory system	1	8	8	8	KEGG_MODULE
+M00435	Taurine transport system	0	0	0	0	KEGG_MODULE
+M00436	Sulfonate transport system	0	0	0	0	KEGG_MODULE
+M00437	Phthalate transport system	0	0	0	0	KEGG_MODULE
+M00438	Nitrate/nitrite transport system	0	0	0	0	KEGG_MODULE
+M00439	Oligopeptide transport system	0	0	0	0	KEGG_MODULE
+M00440	Nickel transport system	0	0	0	0	KEGG_MODULE
+M00442	Putative hydroxymethylpyrimidine transport system	0	0	0	0	KEGG_MODULE
+M00443	SenX3-RegX3 (phosphate starvation response) two-component regulatory system	1	3	3	3	KEGG_MODULE
+M00444	PhoQ-PhoP (magnesium transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00445	EnvZ-OmpR (osmotic stress response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00446	RstB-RstA two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00447	CpxA-CpxR (envelope stress response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00448	CssS-CssR (secretion stress response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00449	CreC-CreB (phosphate regulation) two-component regulatory system	1	3	3	3	KEGG_MODULE
+M00450	BaeS-BaeR (envelope stress response) two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00451	BasS-BasR (antimicrobial peptide resistance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00452	CusS-CusR (copper tolerance) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00453	QseC-QseB (quorum sensing) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00454	KdpD-KdpE (potassium transport) two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00455	TorS-TorR (TMAO respiration) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00456	ArcB-ArcA (anoxic redox control) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00457	TctE-TctD (tricarboxylic acid transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00458	ResE-ResD (aerobic and anaerobic respiration) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00459	VicK-VicR (cell wall metabolism) two-component regulatory system	1	5	5	5	KEGG_MODULE
+M00460	MprB-MprA (maintenance of persistent infection) two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00461	MtrB-MtrA (osmotic stress response) two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00462	PrrB-PrrA (intracellular multiplication) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00463	TrcS-TrcR two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00464	NrsS-NrsR (nickel tolerance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00465	ManS-ManR (manganese homeostasis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00466	NblS-NblR (photosynthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00467	SasA-RpaAB (circadian timing mediating) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00468	SaeS-SaeR (staphylococcal virulence regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00469	BceS-BceR (bacitracin transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00470	YxdK-YxdJ (antimicrobial peptide response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00471	NarX-NarL (nitrate respiration) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00472	NarQ-NarP (nitrate respiration) two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00473	UhpB-UhpA (hexose phosphates uptake) two-component regulatory system	1	7	7	7	KEGG_MODULE
+M00474	RcsC-RcsD-RcsB (capsule synthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00475	BarA-UvrY (central carbon metabolism) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00476	ComP-ComA (competence) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00477	EvgS-EvgA (acid and drug tolerance) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00478	DegS-DegU (multicellular behavior control) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00479	DesK-DesR (membrane lipid fluidity regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00480	VraS-VraR (cell-wall peptidoglycan synthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00481	LiaS-LiaR (cell wall stress response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00482	DevS-DevR (redox response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00483	NreB-NreC (dissimilatory nitrate/nitrite reduction) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00484	YdfH-YdfI two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00485	KinABCDE-Spo0FA (sporulation control) two-component regulatory system	3	7	4	7	KEGG_MODULE
+M00486	CitA-CitB (citrate fermentation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00487	CitS-CitT (magnesium-citrate transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00488	DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00489	DctS-DctR (C4-dicarboxylate transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00490	MalK-MalR (malate transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00491	arabinogalactan oligomer/maltooligosaccharide transport system	1	1	1	1	KEGG_MODULE
+M00492	LytS-LytR two-component regulatory system	1	2	2	2	KEGG_MODULE
+M00493	AlgZ-AlgR (alginate production) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00494	NatK-NatR (sodium extrusion) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00495	AgrC-AgrA (exoprotein synthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00496	ComD-ComE (competence) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00497	GlnL-GlnG (nitrogen regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00498	NtrY-NtrX (nitrogen regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00499	HydH-HydG (metal tolerance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00500	AtoS-AtoC (cPHB biosynthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00501	PilS-PilR (type 4 fimbriae synthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00502	GlrK-GlrR (amino sugar metabolism) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00503	PgtB-PgtA (phosphoglycerate transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00504	DctB-DctD (C4-dicarboxylate transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00505	KinB-AlgB (alginate production) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00506	CheA-CheYBV (chemotaxis) two-component regulatory system	1	6	6	6	KEGG_MODULE
+M00507	ChpA-ChpB/PilGH (chemosensory) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00508	PixL-PixGH (positive phototaxis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00509	WspE-WspRF (chemosensory) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00510	Cph1-Rcp1 (light response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00511	PleC-PleD (cell fate control) two-component regulatory system	2	2	1	2	KEGG_MODULE
+M00512	CckA-CtrA/CpdR (cell cycle control) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00513	LuxQN/CqsS-LuxU-LuxO (quorum sensing) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00514	TtrS-TtrR (tetrathionate respiration) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00515	FlrB-FlrC (polar flagellar synthesis) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00517	RpfC-RpfG (cell-to-cell signaling) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00518	GlnK-GlnL (glutamine utilization) two-component regulatory system	1	1	1	1	KEGG_MODULE
+M00519	YesM-YesN two-component regulatory system	1	6	6	6	KEGG_MODULE
+M00520	ChvG-ChvI (acidity sensing) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00521	CiaH-CiaR two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00522	SalK-SalR two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00523	RegB-RegA (redox response) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00524	FixL-FixJ (nitrogen fixation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00525	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	6	10	10	10	KEGG_MODULE
+M00526	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	6	10	10	10	KEGG_MODULE
+M00527	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	8	12	12	12	KEGG_MODULE
+M00528	Nitrification, ammonia => nitrite	1	1	1	1	KEGG_MODULE
+M00529	Denitrification, nitrate => nitrogen	2	2	2	2	KEGG_MODULE
+M00530	Dissimilatory nitrate reduction, nitrate => ammonia	3	3	3	3	KEGG_MODULE
+M00531	Assimilatory nitrate reduction, nitrate => ammonia	0	0	0	0	KEGG_MODULE
+M00533	Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate	0	0	0	0	KEGG_MODULE
+M00534	Naphthalene degradation, naphthalene => salicylate	0	0	0	0	KEGG_MODULE
+M00535	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	2	3	2	3	KEGG_MODULE
+M00537	Xylene degradation, xylene => methylbenzoate	0	0	0	0	KEGG_MODULE
+M00538	Toluene degradation, toluene => benzoate	0	0	0	0	KEGG_MODULE
+M00539	Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate	0	0	0	0	KEGG_MODULE
+M00540	Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA	0	0	0	0	KEGG_MODULE
+M00541	Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA	0	0	0	0	KEGG_MODULE
+M00542	EHEC/EPEC pathogenicity signature, T3SS and effectors	0	0	0	0	KEGG_MODULE
+M00543	Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate	0	0	0	0	KEGG_MODULE
+M00544	Carbazole degradation, carbazole => 2-oxopent-4-enoate + anthranilate	0	0	0	0	KEGG_MODULE
+M00545	Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA	1	3	3	3	KEGG_MODULE
+M00546	Purine degradation, xanthine => urea	1	2	2	2	KEGG_MODULE
+M00547	Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol	0	0	0	0	KEGG_MODULE
+M00548	Benzene degradation, benzene => catechol	0	0	0	0	KEGG_MODULE
+M00549	Nucleotide sugar biosynthesis, glucose => UDP-glucose	3	4	4	4	KEGG_MODULE
+M00550	Ascorbate degradation, ascorbate => D-xylulose-5P	0	0	0	0	KEGG_MODULE
+M00551	Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol	0	0	0	0	KEGG_MODULE
+M00552	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	3	4	4	4	KEGG_MODULE
+M00554	Nucleotide sugar biosynthesis, galactose => UDP-galactose	0	0	0	0	KEGG_MODULE
+M00555	Betaine biosynthesis, choline => betaine	0	0	0	0	KEGG_MODULE
+M00563	Methanogenesis, methylamine/dimethylamine/trimethylamine => methane	3	14	14	14	KEGG_MODULE
+M00564	Helicobacter pylori pathogenicity signature, cagA pathogenicity island	0	0	0	0	KEGG_MODULE
+M00565	Trehalose biosynthesis, D-glucose 1P => trehalose	1	1	1	1	KEGG_MODULE
+M00566	Dipeptide transport system, Firmicutes	0	0	0	0	KEGG_MODULE
+M00567	Methanogenesis, CO2 => methane	8	30	28	30	KEGG_MODULE
+M00568	Catechol ortho-cleavage, catechol => 3-oxoadipate	0	0	0	0	KEGG_MODULE
+M00569	Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA	0	0	0	0	KEGG_MODULE
+M00570	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	6	13	13	13	KEGG_MODULE
+M00571	AlgE-type Mannuronan C-5-Epimerase transport system	0	0	0	0	KEGG_MODULE
+M00572	Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP	1	1	1	1	KEGG_MODULE
+M00573	Biotin biosynthesis, BioI pathway, long-chain-acyl-ACP => pimeloyl-ACP => biotin	0	0	0	0	KEGG_MODULE
+M00574	Pertussis pathogenicity signature 1, pertussis toxin	0	0	0	0	KEGG_MODULE
+M00575	Pertussis pathogenicity signature 2, T1SS	0	0	0	0	KEGG_MODULE
+M00577	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	0	0	0	0	KEGG_MODULE
+M00579	Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	2	5	5	5	KEGG_MODULE
+M00580	Pentose phosphate pathway, archaea, fructose 6P => ribose 5P	0	0	0	0	KEGG_MODULE
+M00581	Biotin transport system	0	0	0	0	KEGG_MODULE
+M00582	Energy-coupling factor transport system	0	0	0	0	KEGG_MODULE
+M00583	Putative peptide transport system	0	0	0	0	KEGG_MODULE
+M00584	Acetoin utilization transport system	0	0	0	0	KEGG_MODULE
+M00585	L-Cystine transport system	0	0	0	0	KEGG_MODULE
+M00586	Putative amino-acid transport system	0	0	0	0	KEGG_MODULE
+M00587	Arginine/lysine/histidine/glutamine transport system	0	0	0	0	KEGG_MODULE
+M00589	Putative lysine transport system	0	0	0	0	KEGG_MODULE
+M00590	Erythritol transport system	0	0	0	0	KEGG_MODULE
+M00591	Putative xylitol transport system	0	0	0	0	KEGG_MODULE
+M00592	Inositol transport system	0	0	0	0	KEGG_MODULE
+M00593	Inositol transport system	0	0	0	0	KEGG_MODULE
+M00595	Thiosulfate oxidation by SOX complex, thiosulfate => sulfate	0	0	0	0	KEGG_MODULE
+M00596	Dissimilatory sulfate reduction, sulfate => H2S	5	13	11	13	KEGG_MODULE
+M00597	Anoxygenic photosystem II	0	0	0	0	KEGG_MODULE
+M00598	Anoxygenic photosystem I	0	0	0	0	KEGG_MODULE
+M00599	Inositol-phosphate transport system	0	0	0	0	KEGG_MODULE
+M00600	alpha-1,4-Digalacturonate transport system	0	0	0	0	KEGG_MODULE
+M00601	Putative chitobiose transport system	0	0	0	0	KEGG_MODULE
+M00602	Arabinosaccharide transport system	1	1	1	1	KEGG_MODULE
+M00603	Putative aldouronate transport system	0	0	0	0	KEGG_MODULE
+M00604	Trehalose transport system	0	0	0	0	KEGG_MODULE
+M00605	Glucose/mannose transport system	1	1	1	1	KEGG_MODULE
+M00606	N,N'-Diacetylchitobiose transport system	1	1	1	1	KEGG_MODULE
+M00607	Glycerol transport system	0	0	0	0	KEGG_MODULE
+M00608	2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate	1	1	1	1	KEGG_MODULE
+M00609	Cysteine biosynthesis, methionine => cysteine	1	1	1	1	KEGG_MODULE
+M00610	PTS system, D-glucosaminate-specific II component	0	0	0	0	KEGG_MODULE
+M00611	Oxygenic photosynthesis in plants and cyanobacteria	7	14	12	14	KEGG_MODULE
+M00612	Anoxygenic photosynthesis in purple bacteria	7	14	12	14	KEGG_MODULE
+M00613	Anoxygenic photosynthesis in green nonsulfur bacteria	12	37	23	37	KEGG_MODULE
+M00614	Anoxygenic photosynthesis in green sulfur bacteria	25	65	49	65	KEGG_MODULE
+M00615	Nitrate assimilation	0	0	0	0	KEGG_MODULE
+M00616	Sulfate-sulfur assimilation	5	14	8	14	KEGG_MODULE
+M00617	Methanogen	11	50	34	50	KEGG_MODULE
+M00618	Acetogen	6	11	9	11	KEGG_MODULE
+M00619	Xylobiose transport system	0	0	0	0	KEGG_MODULE
+M00620	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	13	34	30	34	KEGG_MODULE
+M00622	Nicotinate degradation, nicotinate => fumarate	0	0	0	0	KEGG_MODULE
+M00623	Phthalate degradation, phthalate => protocatechuate	0	0	0	0	KEGG_MODULE
+M00624	Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate	0	0	0	0	KEGG_MODULE
+M00625	Methicillin resistance	0	0	0	0	KEGG_MODULE
+M00627	beta-Lactam resistance, Bla system	0	0	0	0	KEGG_MODULE
+M00628	beta-Lactam resistance, AmpC system	0	0	0	0	KEGG_MODULE
+M00631	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	2	2	2	2	KEGG_MODULE
+M00632	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	1	4	4	4	KEGG_MODULE
+M00633	Semi-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate-3P	0	0	0	0	KEGG_MODULE
+M00634	Oleandomycin transport system	0	0	0	0	KEGG_MODULE
+M00635	Tetracycline resistance, TetAB(46) transporter	0	0	0	0	KEGG_MODULE
+M00636	Phthalate degradation, phthalate => protocatechuate	0	0	0	0	KEGG_MODULE
+M00637	Anthranilate degradation, anthranilate => catechol	0	0	0	0	KEGG_MODULE
+M00638	Salicylate degradation, salicylate => gentisate	0	0	0	0	KEGG_MODULE
+M00639	Multidrug resistance, efflux pump MexCD-OprJ	0	0	0	0	KEGG_MODULE
+M00641	Multidrug resistance, efflux pump MexEF-OprN	0	0	0	0	KEGG_MODULE
+M00642	Multidrug resistance, efflux pump MexJK-OprM	0	0	0	0	KEGG_MODULE
+M00643	Multidrug resistance, efflux pump MexXY-OprM	0	0	0	0	KEGG_MODULE
+M00644	Vanadium resistance, efflux pump MexGHI-OpmD	0	0	0	0	KEGG_MODULE
+M00645	Multidrug resistance, efflux pump SmeABC	1	2	2	2	KEGG_MODULE
+M00646	Multidrug resistance, efflux pump AcrAD-TolC	1	2	2	2	KEGG_MODULE
+M00647	Multidrug resistance, efflux pump AcrAB-TolC/SmeDEF	0	0	0	0	KEGG_MODULE
+M00648	Multidrug resistance, efflux pump MdtABC	1	2	2	2	KEGG_MODULE
+M00649	Multidrug resistance, efflux pump AdeABC	0	0	0	0	KEGG_MODULE
+M00651	Vancomycin resistance, D-Ala-D-Lac type	1	1	1	1	KEGG_MODULE
+M00652	Vancomycin resistance, D-Ala-D-Ser type	0	0	0	0	KEGG_MODULE
+M00653	AauS-AauR (acidic amino acids utilization) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00654	ParS-ParR (polymyxin-adaptive resistance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00655	AdeS-AdeR two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00656	VanS-VanR (VanB type vancomycin resistance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00657	VanS-VanR (VanE type vancomycin resistance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00658	VanS-VanR (actinomycete type vancomycin resistance) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00660	Xanthomonas spp. pathogenicity signature, T3SS and effectors	0	0	0	0	KEGG_MODULE
+M00662	Hk1-Rrp1 (glycerol uptake and utilization) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00663	SsrA-SsrB two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00664	Nodulation	0	0	0	0	KEGG_MODULE
+M00667	Tetracycline resistance, efflux pump	0	0	0	0	KEGG_MODULE
+M00668	Tetracycline resistance, TetA transporter	0	0	0	0	KEGG_MODULE
+M00669	gamma-Hexachlorocyclohexane transport system	0	0	0	0	KEGG_MODULE
+M00670	Mce transport system	0	0	0	0	KEGG_MODULE
+M00673	Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C	0	0	0	0	KEGG_MODULE
+M00674	Clavaminate biosynthesis, arginine + glyceraldehyde-3P => clavaminate	0	0	0	0	KEGG_MODULE
+M00675	Carbapenem-3-carboxylate biosynthesis, pyrroline-5-carboxylate + malonyl-CoA => carbapenem-3-carboxylate	0	0	0	0	KEGG_MODULE
+M00696	Multidrug resistance, efflux pump AcrEF-TolC	0	0	0	0	KEGG_MODULE
+M00697	Multidrug resistance, efflux pump MdtEF-TolC	0	0	0	0	KEGG_MODULE
+M00698	Multidrug resistance, efflux pump BpeEF-OprC	0	0	0	0	KEGG_MODULE
+M00699	Multidrug resistance, efflux pump AmeABC	0	0	0	0	KEGG_MODULE
+M00700	Multidrug resistance, efflux pump AbcA	0	0	0	0	KEGG_MODULE
+M00701	Multidrug resistance, efflux pump EmrAB	1	3	3	3	KEGG_MODULE
+M00702	Multidrug resistance, efflux pump NorB	0	0	0	0	KEGG_MODULE
+M00704	Tetracycline resistance, efflux pump Tet38	0	0	0	0	KEGG_MODULE
+M00705	Multidrug resistance, efflux pump MepA	0	0	0	0	KEGG_MODULE
+M00706	Multidrug resistance, EfrAB transporter	0	0	0	0	KEGG_MODULE
+M00707	Multidrug resistance, MdlAB/SmdAB transporter	0	0	0	0	KEGG_MODULE
+M00708	Multidrug resistance, PatAB transporter	0	0	0	0	KEGG_MODULE
+M00709	Macrolide resistance, MacAB-TolC transporter	0	0	0	0	KEGG_MODULE
+M00710	Multidrug resistance, efflux pump EbrAB	0	0	0	0	KEGG_MODULE
+M00711	Multidrug resistance, efflux pump MdtIJ	0	0	0	0	KEGG_MODULE
+M00712	Multidrug resistance, efflux pump YkkCD	0	0	0	0	KEGG_MODULE
+M00713	Fluoroquinolone resistance, efflux pump LfrA	0	0	0	0	KEGG_MODULE
+M00714	Multidrug resistance, efflux pump QacA	0	0	0	0	KEGG_MODULE
+M00715	Lincosamide resistance, efflux pump LmrB	0	0	0	0	KEGG_MODULE
+M00716	ArlS-ArlR (virulence regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00717	Multidrug resistance, efflux pump NorA	1	1	1	1	KEGG_MODULE
+M00718	Multidrug resistance, efflux pump MexAB-OprM	0	0	0	0	KEGG_MODULE
+M00719	Ihk-Irr (virulence regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00720	Multidrug resistance, efflux pump VexEF-TolC	0	0	0	0	KEGG_MODULE
+M00721	Cationic antimicrobial peptide (CAMP) resistance, arnBCADTEF operon	0	0	0	0	KEGG_MODULE
+M00722	Cationic antimicrobial peptide (CAMP) resistance, phosphoethanolamine transferase PmrC	0	0	0	0	KEGG_MODULE
+M00723	Cationic antimicrobial peptide (CAMP) resistance, phosphoethanolamine transferase EptB	0	0	0	0	KEGG_MODULE
+M00724	Cationic antimicrobial peptide (CAMP) resistance, palmitoyl transferase PagP	0	0	0	0	KEGG_MODULE
+M00725	Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon	0	0	0	0	KEGG_MODULE
+M00726	Cationic antimicrobial peptide (CAMP) resistance, lysyl-phosphatidylglycerol (L-PG) synthase MprF	0	0	0	0	KEGG_MODULE
+M00727	Cationic antimicrobial peptide (CAMP) resistance, N-acetylmuramoyl-L-alanine amidase AmiA and AmiC	1	26	26	26	KEGG_MODULE
+M00728	Cationic antimicrobial peptide (CAMP) resistance, envelope protein folding and degrading factors DegP and DsbA	0	0	0	0	KEGG_MODULE
+M00729	Fluoroquinolone resistance, gyrase-protecting protein Qnr	0	0	0	0	KEGG_MODULE
+M00730	Cationic antimicrobial peptide (CAMP) resistance, VraFG transporter	0	0	0	0	KEGG_MODULE
+M00731	Bacitracin transport system	0	0	0	0	KEGG_MODULE
+M00732	Cationic antimicrobial peptide transport system	0	0	0	0	KEGG_MODULE
+M00733	GraS-GraR (cationic antimicrobial peptide transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00734	BraS-BraR (bacitracin transport) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00736	Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A	0	0	0	0	KEGG_MODULE
+M00737	Bacitracin resistance, VraDE transporter	0	0	0	0	KEGG_MODULE
+M00738	Bacitracin resistance, BceAB transporter	0	0	0	0	KEGG_MODULE
+M00739	Cationic peptide transport system	0	0	0	0	KEGG_MODULE
+M00740	Methylaspartate cycle	2	2	2	2	KEGG_MODULE
+M00741	Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA	5	9	4	9	KEGG_MODULE
+M00742	Aminoglycoside resistance, protease FtsH	0	0	0	0	KEGG_MODULE
+M00743	Aminoglycoside resistance, protease HtpX	0	0	0	0	KEGG_MODULE
+M00744	Cationic antimicrobial peptide (CAMP) resistance, protease PgtE	0	0	0	0	KEGG_MODULE
+M00745	Imipenem resistance, repression of porin OprD	1	1	1	1	KEGG_MODULE
+M00746	Multidrug resistance, repression of porin OmpF	0	0	0	0	KEGG_MODULE
+M00747	Bacitracin transport system	0	0	0	0	KEGG_MODULE
+M00754	Nisin resistance, phage shock protein homolog LiaH	0	0	0	0	KEGG_MODULE
+M00760	Erythromycin resistance, macrolide 2'-phosphotransferase I MphA	0	0	0	0	KEGG_MODULE
+M00761	Undecaprenylphosphate alpha-L-Ara4N biosynthesis, UDP-GlcA => undecaprenyl phosphate alpha-L-Ara4N	0	0	0	0	KEGG_MODULE
+M00762	Copper-processing system	0	0	0	0	KEGG_MODULE
+M00763	Ornithine biosynthesis, mediated by LysW, glutamate => ornithine	1	3	3	3	KEGG_MODULE
+M00764	PTS system, fructoselysine/glucoselysine-specific II component	0	0	0	0	KEGG_MODULE
+M00765	Multidrug resistance, efflux pump Bmr	0	0	0	0	KEGG_MODULE
+M00766	Streptomycin resistance, deactivating enzyme StrAB	0	0	0	0	KEGG_MODULE
+M00767	Multidrug resistance, efflux pump OqxAB	0	0	0	0	KEGG_MODULE
+M00768	Multidrug resistance, efflux pump GesABC	0	0	0	0	KEGG_MODULE
+M00769	Multidrug resistance, efflux pump MexPQ-OpmE	0	0	0	0	KEGG_MODULE
+M00770	PfeS-PfeR (enterobactin-dependent iron acquisition) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00771	FitF-FitH (insecticidal toxin regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00772	HupT-HupR (hydrogenase synthesis regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00774	Erythromycin biosynthesis, propanoyl-CoA + methylmalonyl-CoA => deoxyerythronolide B => erythromycin A/B	0	0	0	0	KEGG_MODULE
+M00777	Avermectin biosynthesis, 2-methylbutanoyl-CoA/isobutyryl-CoA => 6,8a-Seco-6,8a-deoxy-5-oxoavermectin 1a/1b aglycone => avermectin A1a/B1a/A1b/B1b	0	0	0	0	KEGG_MODULE
+M00778	Type II polyketide backbone biosynthesis, acyl-CoA + malonyl-CoA => polyketide	1	1	1	1	KEGG_MODULE
+M00779	Dihydrokalafungin biosynthesis, octaketide => dihydrokalafungin	1	1	1	1	KEGG_MODULE
+M00781	Nogalavinone/aklavinone biosynthesis, deoxynogalonate/deoxyaklanonate => nogalavinone/aklavinone	0	0	0	0	KEGG_MODULE
+M00783	Tetracenomycin C/8-demethyltetracenomycin C biosynthesis, tetracenomycin F2 => tetracenomycin C/8-demethyltetracenomycin C	0	0	0	0	KEGG_MODULE
+M00787	Bacilysin biosynthesis, prephenate => bacilysin	0	0	0	0	KEGG_MODULE
+M00790	Pyrrolnitrin biosynthesis, tryptophan => pyrrolnitrin	0	0	0	0	KEGG_MODULE
+M00791	Manganese/zinc transport system	0	0	0	0	KEGG_MODULE
+M00792	Manganese/zinc transport system	0	0	0	0	KEGG_MODULE
+M00793	dTDP-L-rhamnose biosynthesis	0	0	0	0	KEGG_MODULE
+M00794	dTDP-6-deoxy-D-allose biosynthesis	0	0	0	0	KEGG_MODULE
+M00796	dTDP-D-mycaminose biosynthesis	0	0	0	0	KEGG_MODULE
+M00797	dTDP-D-desosamine biosynthesis	0	0	0	0	KEGG_MODULE
+M00798	dTDP-L-mycarose biosynthesis	0	0	0	0	KEGG_MODULE
+M00799	dTDP-L-oleandrose biosynthesis	0	0	0	0	KEGG_MODULE
+M00800	dTDP-L-megosamine biosynthesis	0	0	0	0	KEGG_MODULE
+M00804	Complete nitrification, comammox, ammonia => nitrite => nitrate	1	1	1	1	KEGG_MODULE
+M00806	PTS system, maltose-specific II component	0	0	0	0	KEGG_MODULE
+M00807	PTS system, galactose-specific II component	0	0	0	0	KEGG_MODULE
+M00808	Violacein biosynthesis, tryptophan => violacein	0	0	0	0	KEGG_MODULE
+M00809	PTS system, glucose-specific II component	0	0	0	0	KEGG_MODULE
+M00810	Nicotine degradation, pyridine pathway, nicotine => 2,6-dihydroxypyridine/succinate semialdehyde	0	0	0	0	KEGG_MODULE
+M00811	Nicotine degradation, pyrrolidine pathway, nicotine => succinate semialdehyde	0	0	0	0	KEGG_MODULE
+M00812	AgrC2-AgrA2 (virulence regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00813	Lantibiotic transport system	0	0	0	0	KEGG_MODULE
+M00814	Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose	0	0	0	0	KEGG_MODULE
+M00815	Validamycin A biosynthesis, sedoheptulopyranose-7P => validamycin A	0	0	0	0	KEGG_MODULE
+M00816	NisK-NisR (Lantibiotic biosynthesis) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00817	Lantibiotic transport system	0	0	0	0	KEGG_MODULE
+M00818	FusK-FusR (virulence regulation) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00819	Pentalenolactone biosynthesis, farnesyl-PP => pentalenolactone	0	0	0	0	KEGG_MODULE
+M00013	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	0	0	0	0	KEGG_MODULE
+M00014	Glucuronate pathway (uronate pathway)	0	0	0	0	KEGG_MODULE
+M00029	Urea cycle	0	0	0	0	KEGG_MODULE
+M00030	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	0	0	0	0	KEGG_MODULE
+M00032	Lysine degradation, lysine => saccharopine => acetoacetyl-CoA	0	0	0	0	KEGG_MODULE
+M00037	Melatonin biosynthesis, tryptophan => serotonin => melatonin	0	0	0	0	KEGG_MODULE
+M00039	Monolignol biosynthesis, phenylalanine/tyrosine => monolignol	0	0	0	0	KEGG_MODULE
+M00042	Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline	0	0	0	0	KEGG_MODULE
+M00043	Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine	0	0	0	0	KEGG_MODULE
+M00044	Tyrosine degradation, tyrosine => homogentisate	0	0	0	0	KEGG_MODULE
+M00047	Creatine pathway	0	0	0	0	KEGG_MODULE
+M00055	N-glycan precursor biosynthesis	0	0	0	0	KEGG_MODULE
+M00056	O-glycan biosynthesis, mucin type core	0	0	0	0	KEGG_MODULE
+M00057	Glycosaminoglycan biosynthesis, linkage tetrasaccharide	0	0	0	0	KEGG_MODULE
+M00058	Glycosaminoglycan biosynthesis, chondroitin sulfate backbone	0	0	0	0	KEGG_MODULE
+M00059	Glycosaminoglycan biosynthesis, heparan sulfate backbone	0	0	0	0	KEGG_MODULE
+M00065	GPI-anchor biosynthesis, core oligosaccharide	0	0	0	0	KEGG_MODULE
+M00066	Lactosylceramide biosynthesis	0	0	0	0	KEGG_MODULE
+M00067	Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid	0	0	0	0	KEGG_MODULE
+M00068	Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer	0	0	0	0	KEGG_MODULE
+M00069	Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3	0	0	0	0	KEGG_MODULE
+M00070	Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer	0	0	0	0	KEGG_MODULE
+M00071	Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer	0	0	0	0	KEGG_MODULE
+M00072	N-glycosylation by oligosaccharyltransferase	0	0	0	0	KEGG_MODULE
+M00073	N-glycan precursor trimming	0	0	0	0	KEGG_MODULE
+M00074	N-glycan biosynthesis, high-mannose type	0	0	0	0	KEGG_MODULE
+M00075	N-glycan biosynthesis, complex type	0	0	0	0	KEGG_MODULE
+M00076	Dermatan sulfate degradation	0	0	0	0	KEGG_MODULE
+M00077	Chondroitin sulfate degradation	0	0	0	0	KEGG_MODULE
+M00078	Heparan sulfate degradation	0	0	0	0	KEGG_MODULE
+M00079	Keratan sulfate degradation	0	0	0	0	KEGG_MODULE
+M00081	Pectin degradation	0	0	0	0	KEGG_MODULE
+M00085	Fatty acid biosynthesis, elongation, mitochondria	0	0	0	0	KEGG_MODULE
+M00089	Triacylglycerol biosynthesis	0	0	0	0	KEGG_MODULE
+M00090	Phosphatidylcholine (PC) biosynthesis, choline => PC	0	0	0	0	KEGG_MODULE
+M00092	Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE	0	0	0	0	KEGG_MODULE
+M00094	Ceramide biosynthesis	0	0	0	0	KEGG_MODULE
+M00097	beta-Carotene biosynthesis, GGAP => beta-carotene	0	0	0	0	KEGG_MODULE
+M00098	Acylglycerol degradation	0	0	0	0	KEGG_MODULE
+M00099	Sphingosine biosynthesis	0	0	0	0	KEGG_MODULE
+M00100	Sphingosine degradation	0	0	0	0	KEGG_MODULE
+M00101	Cholesterol biosynthesis, squalene 2,3-epoxide => cholesterol	0	0	0	0	KEGG_MODULE
+M00102	Ergocalciferol biosynthesis	0	0	0	0	KEGG_MODULE
+M00103	Cholecalciferol biosynthesis	0	0	0	0	KEGG_MODULE
+M00104	Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate	0	0	0	0	KEGG_MODULE
+M00106	Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate	0	0	0	0	KEGG_MODULE
+M00107	Steroid hormone biosynthesis, cholesterol => prognenolone => progesterone	0	0	0	0	KEGG_MODULE
+M00108	C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone	0	0	0	0	KEGG_MODULE
+M00109	C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone	0	0	0	0	KEGG_MODULE
+M00110	C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone	0	0	0	0	KEGG_MODULE
+M00113	Jasmonic acid biosynthesis	0	0	0	0	KEGG_MODULE
+M00114	Ascorbate biosynthesis, plants, glucose-6P => ascorbate	0	0	0	0	KEGG_MODULE
+M00128	Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate => ubiquinone	0	0	0	0	KEGG_MODULE
+M00129	Ascorbate biosynthesis, animals, glucose-1P => ascorbate	0	0	0	0	KEGG_MODULE
+M00130	Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4	0	0	0	0	KEGG_MODULE
+M00131	Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol	0	0	0	0	KEGG_MODULE
+M00132	Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate	0	0	0	0	KEGG_MODULE
+M00137	Flavanone biosynthesis, phenylalanine => naringenin	0	0	0	0	KEGG_MODULE
+M00138	Flavonoid biosynthesis, naringenin => pelargonidin	0	0	0	0	KEGG_MODULE
+M00142	NADH:ubiquinone oxidoreductase, mitochondria	0	0	0	0	KEGG_MODULE
+M00143	NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria	0	0	0	0	KEGG_MODULE
+M00146	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	0	0	0	0	KEGG_MODULE
+M00147	NADH dehydrogenase (ubiquinone) 1 beta subcomplex	0	0	0	0	KEGG_MODULE
+M00148	Succinate dehydrogenase (ubiquinone)	0	0	0	0	KEGG_MODULE
+M00152	Cytochrome bc1 complex	0	0	0	0	KEGG_MODULE
+M00154	Cytochrome c oxidase	0	0	0	0	KEGG_MODULE
+M00158	F-type ATPase, eukaryotes	0	0	0	0	KEGG_MODULE
+M00160	V-type ATPase, eukaryotes	0	0	0	0	KEGG_MODULE
+M00170	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	0	0	0	0	KEGG_MODULE
+M00171	C4-dicarboxylic acid cycle, NAD - malic enzyme type	0	0	0	0	KEGG_MODULE
+M00172	C4-dicarboxylic acid cycle, NADP - malic enzyme type	0	0	0	0	KEGG_MODULE
+M00177	Ribosome, eukaryotes	0	0	0	0	KEGG_MODULE
+M00180	RNA polymerase II, eukaryotes	0	0	0	0	KEGG_MODULE
+M00181	RNA polymerase III, eukaryotes	0	0	0	0	KEGG_MODULE
+M00182	RNA polymerase I, eukaryotes	0	0	0	0	KEGG_MODULE
+M00261	DNA polymerase alpha / primase complex	0	0	0	0	KEGG_MODULE
+M00262	DNA polymerase delta complex	0	0	0	0	KEGG_MODULE
+M00263	DNA polymerase epsilon complex	0	0	0	0	KEGG_MODULE
+M00284	Origin recognition complex	0	0	0	0	KEGG_MODULE
+M00285	MCM complex	0	0	0	0	KEGG_MODULE
+M00286	GINS complex	0	0	0	0	KEGG_MODULE
+M00288	RPA complex	0	0	0	0	KEGG_MODULE
+M00289	RF-C complex	0	0	0	0	KEGG_MODULE
+M00290	Holo-TFIIH complex	0	0	0	0	KEGG_MODULE
+M00291	MRN complex	0	0	0	0	KEGG_MODULE
+M00292	MRX complex	0	0	0	0	KEGG_MODULE
+M00293	DNA polymerase zeta complex	0	0	0	0	KEGG_MODULE
+M00294	DNA polymerase gamma complex	0	0	0	0	KEGG_MODULE
+M00295	BRCA1-associated genome surveillance complex (BASC)	0	0	0	0	KEGG_MODULE
+M00296	BER complex	0	0	0	0	KEGG_MODULE
+M00297	DNA-PK complex	0	0	0	0	KEGG_MODULE
+M00337	Immunoproteasome	0	0	0	0	KEGG_MODULE
+M00340	Proteasome, 20S core particle	0	0	0	0	KEGG_MODULE
+M00341	Proteasome, 19S regulatory particle (PA700)	0	0	0	0	KEGG_MODULE
+M00344	Formaldehyde assimilation, xylulose monophosphate pathway	0	0	0	0	KEGG_MODULE
+M00350	Capsaicin biosynthesis, L-Phenylalanine => Capsaicin	0	0	0	0	KEGG_MODULE
+M00351	Spliceosome, U1-snRNP	0	0	0	0	KEGG_MODULE
+M00352	Spliceosome, U2-snRNP	0	0	0	0	KEGG_MODULE
+M00353	Spliceosome, Prp19/CDC5L complex	0	0	0	0	KEGG_MODULE
+M00354	Spliceosome, U4/U6.U5 tri-snRNP	0	0	0	0	KEGG_MODULE
+M00355	Spliceosome, 35S U5-snRNP	0	0	0	0	KEGG_MODULE
+M00366	C10-C20 isoprenoid biosynthesis, plants	0	0	0	0	KEGG_MODULE
+M00367	C10-C20 isoprenoid biosynthesis, non-plant eukaryotes	0	0	0	0	KEGG_MODULE
+M00368	Ethylene biosynthesis, methionine => ethylene	0	0	0	0	KEGG_MODULE
+M00369	Cyanogenic glycoside biosynthesis, tyrosine => dhurrin	0	0	0	0	KEGG_MODULE
+M00370	Glucosinolate biosynthesis, tryptophan => glucobrassicin	0	0	0	0	KEGG_MODULE
+M00371	Castasterone biosynthesis, campesterol => castasterone	0	0	0	0	KEGG_MODULE
+M00372	Abscisic acid biosynthesis, beta-carotene => abscisic acid	0	0	0	0	KEGG_MODULE
+M00379	SCF-MET30 complex	0	0	0	0	KEGG_MODULE
+M00380	SCF-BTRC complex	0	0	0	0	KEGG_MODULE
+M00381	SCF-SKP2 complex	0	0	0	0	KEGG_MODULE
+M00382	SCF-FBS complex	0	0	0	0	KEGG_MODULE
+M00383	ECV complex	0	0	0	0	KEGG_MODULE
+M00384	Cul3-SPOP complex	0	0	0	0	KEGG_MODULE
+M00385	Cul4-DDB1-DDB2 complex	0	0	0	0	KEGG_MODULE
+M00386	Cul4-DDB1-CSA complex	0	0	0	0	KEGG_MODULE
+M00387	SCF-FBW7 complex	0	0	0	0	KEGG_MODULE
+M00388	ECS complex	0	0	0	0	KEGG_MODULE
+M00389	APC/C complex	0	0	0	0	KEGG_MODULE
+M00391	Exosome, eukaryotes	0	0	0	0	KEGG_MODULE
+M00392	Ski complex	0	0	0	0	KEGG_MODULE
+M00393	TRAMP complex	0	0	0	0	KEGG_MODULE
+M00395	Decapping complex	0	0	0	0	KEGG_MODULE
+M00396	Lsm 2-8 complex	0	0	0	0	KEGG_MODULE
+M00397	Lsm 1-7 complex	0	0	0	0	KEGG_MODULE
+M00398	Sm core complex	0	0	0	0	KEGG_MODULE
+M00399	Cap binding complex	0	0	0	0	KEGG_MODULE
+M00400	p97-Ufd1-Npl4 complex	0	0	0	0	KEGG_MODULE
+M00401	Sec61 complex	0	0	0	0	KEGG_MODULE
+M00402	Translocon-associated protein (TRAP) complex	0	0	0	0	KEGG_MODULE
+M00403	HRD1/SEL1 ERAD complex	0	0	0	0	KEGG_MODULE
+M00404	COPII complex	0	0	0	0	KEGG_MODULE
+M00405	THC complex	0	0	0	0	KEGG_MODULE
+M00406	TREX complex	0	0	0	0	KEGG_MODULE
+M00407	SCF-CDC4 complex	0	0	0	0	KEGG_MODULE
+M00408	ESCRT-0 complex	0	0	0	0	KEGG_MODULE
+M00409	ESCRT-I complex	0	0	0	0	KEGG_MODULE
+M00410	ESCRT-II complex	0	0	0	0	KEGG_MODULE
+M00411	SCF-GRR1 complex	0	0	0	0	KEGG_MODULE
+M00412	ESCRT-III complex	0	0	0	0	KEGG_MODULE
+M00413	FA core complex	0	0	0	0	KEGG_MODULE
+M00414	Bloom's syndrome complex	0	0	0	0	KEGG_MODULE
+M00415	Fatty acid biosynthesis, elongation, endoplasmic reticulum	0	0	0	0	KEGG_MODULE
+M00424	Shelterin complex	0	0	0	0	KEGG_MODULE
+M00425	H/ACA ribonucleoprotein complex	0	0	0	0	KEGG_MODULE
+M00426	Survival motor neuron (SMN) complex	0	0	0	0	KEGG_MODULE
+M00427	Nuclear pore complex	0	0	0	0	KEGG_MODULE
+M00428	eIF4F complex	0	0	0	0	KEGG_MODULE
+M00430	Exon junction complex (EJC)	0	0	0	0	KEGG_MODULE
+M00516	SLN1-YPD1-SSK1/SKN7 (osmosensing) two-component regulatory system	0	0	0	0	KEGG_MODULE
+M00532	Photorespiration	0	0	0	0	KEGG_MODULE
+M00630	D-Galacturonate degradation (fungi), D-galacturonate => glycerol	0	0	0	0	KEGG_MODULE
+M00661	Paspaline biosynthesis, geranylgeranyl-PP + indoleglycerol phosphate => paspaline	0	0	0	0	KEGG_MODULE
+M00672	Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin	0	0	0	0	KEGG_MODULE
+M00676	PI3K-Akt signaling	0	0	0	0	KEGG_MODULE
+M00677	Wnt signaling	0	0	0	0	KEGG_MODULE
+M00678	Hedgehog signaling	0	0	0	0	KEGG_MODULE
+M00679	BMP signaling	0	0	0	0	KEGG_MODULE
+M00680	TGF-beta signaling	0	0	0	0	KEGG_MODULE
+M00681	Activin signaling	0	0	0	0	KEGG_MODULE
+M00682	Notch signaling	0	0	0	0	KEGG_MODULE
+M00683	Hippo signaling	0	0	0	0	KEGG_MODULE
+M00684	JAK-STAT signaling	0	0	0	0	KEGG_MODULE
+M00685	Apoptotic machinery	0	0	0	0	KEGG_MODULE
+M00686	Toll-like receptor signaling	0	0	0	0	KEGG_MODULE
+M00687	MAPK (ERK1/2) signaling	0	0	0	0	KEGG_MODULE
+M00688	MAPK (JNK) signaling	0	0	0	0	KEGG_MODULE
+M00689	MAPK (p38) signaling	0	0	0	0	KEGG_MODULE
+M00690	MAPK (ERK5) signaling	0	0	0	0	KEGG_MODULE
+M00691	DNA damage-induced cell cycle checkpoints	0	0	0	0	KEGG_MODULE
+M00692	Cell cycle - G1/S transition	0	0	0	0	KEGG_MODULE
+M00693	Cell cycle - G2/M transition	0	0	0	0	KEGG_MODULE
+M00694	cGMP signaling	0	0	0	0	KEGG_MODULE
+M00695	cAMP signaling	0	0	0	0	KEGG_MODULE
+M00773	Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA => tylactone => tylosin	0	0	0	0	KEGG_MODULE
+M00775	Oleandomycin biosynthesis, malonyl-CoA + methylmalonyl-CoA => 8,8a-deoxyoleandolide => oleandomycin	0	0	0	0	KEGG_MODULE
+M00776	Pikromycin/methymycin/neomethymycin biosynthesis, methylmalonyl-CoA + malonyl-CoA => narbonolide/10-deoxymethynolide => pikromycin/methymycin/neomethymycin	0	0	0	0	KEGG_MODULE
+M00780	Tetracycline/oxytetracycline biosynthesis, pretetramide => tetracycline/oxytetracycline	0	0	0	0	KEGG_MODULE
+M00782	Mithramycin biosynthesis, 4-demethylpremithramycinone => mithramycin	0	0	0	0	KEGG_MODULE
+M00784	Elloramycin biosynthesis, 8-demethyltetracenomycin C => elloramycin A	0	0	0	0	KEGG_MODULE
+M00785	Cycloserine biosynthesis, arginine/serine => cycloserine	0	0	0	0	KEGG_MODULE
+M00786	Fumitremorgin alkaloid biosynthesis, tryptophan + proline => fumitremorgin C/A	0	0	0	0	KEGG_MODULE
+M00788	Terpentecin biosynthesis, GGAP => terpentecin	0	0	0	0	KEGG_MODULE
+M00789	Rebeccamycin biosynthesis, tryptophan => rebeccamycin	0	0	0	0	KEGG_MODULE
+M00795	dTDP-beta-L-noviose biosynthesis	0	0	0	0	KEGG_MODULE
+M00801	dTDP-L-olivose biosynthesis	0	0	0	0	KEGG_MODULE
+M00802	dTDP-D-forosamine biosynthesis	0	0	0	0	KEGG_MODULE
+M00803	dTDP-D-angolosamine biosynthesis	0	0	0	0	KEGG_MODULE
+M00805	Staurosporine biosynthesis, tryptophan => staurosporine	0	0	0	0	KEGG_MODULE
+14_Methanogenesis#From dimethylamine	14_Methanogenesis#From dimethylamine	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Putative ABC transporter [mD:m00247]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Putative ABC transporter [mD:m00247]	2	3	3	3	FOAM
+06_Amino acid utilization biosynthesis metabolism#Phenylalanine metabolism	06_Amino acid utilization biosynthesis metabolism#Phenylalanine metabolism	3	5	5	5	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Sucrose-specific II component [mD:m00269]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Sucrose-specific II component [mD:m00269]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Multiple sugar transporter [mD:m00196]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Multiple sugar transporter [mD:m00196]	1	1	1	1	FOAM
+05_Fatty acid oxidation#Fatty acid beta-oxidation IV (unsaturated)	05_Fatty acid oxidation#Fatty acid beta-oxidation IV (unsaturated)	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Sugar efflux transporter (sEt) [tc:2.A.1.20]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Sugar efflux transporter (sEt) [tc:2.A.1.20]	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate II	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate II	0	0	0	0	FOAM
+20_Hydrolysis of polymers#Galactose	20_Hydrolysis of polymers#Galactose	9	16	16	16	FOAM
+19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Lipopolysaccharide biosynthesis	19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Lipopolysaccharide biosynthesis	17	33	33	33	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#2-Aminoethylphosphonate transporter [mD:m00302]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#2-Aminoethylphosphonate transporter [mD:m00302]	0	0	0	0	FOAM
+05_Fatty acid oxidation#Fatty acid beta-oxidation III (unsaturated)	05_Fatty acid oxidation#Fatty acid beta-oxidation III (unsaturated)	0	0	0	0	FOAM
+17_Gluconeogenesis#Gluconeogenesis in archea	17_Gluconeogenesis#Gluconeogenesis in archea	8	10	8	10	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Metabolite:h+ symporter (mhs) family [tc:2.A.1.6]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Metabolite:h+ symporter (mhs) family [tc:2.A.1.6]	0	0	0	0	FOAM
+13_Hydrogen metabolism#Hydrogen production	13_Hydrogen metabolism#Hydrogen production	1	1	1	1	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Purine transporter (AzgA) family [tc:2.A.1.40]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Purine transporter (AzgA) family [tc:2.A.1.40]	1	1	1	1	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Trehalose-specific II component [mD:m00270]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Trehalose-specific II component [mD:m00270]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipooligosaccharide transporter [mD:m00252]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipooligosaccharide transporter [mD:m00252]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Phenylalanine, tyrosine and tryptophan biosynthesis	06_Amino acid utilization biosynthesis metabolism#Phenylalanine, tyrosine and tryptophan biosynthesis	11	13	8	13	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Feline leukemia virus subgroup c receptor (FlvcR) [tc:2.A.1.28]	12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Feline leukemia virus subgroup c receptor (FlvcR) [tc:2.A.1.28]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese transporter [mD:m00316]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese transporter [mD:m00316]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Sorbose-specific II component [mD:m00278]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Sorbose-specific II component [mD:m00278]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Enzyme I	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Enzyme I	0	0	0	0	FOAM
+01_Fermentation#Acetyl-coA fermentation to butyrate II (clostridium)	01_Fermentation#Acetyl-coA fermentation to butyrate II (clostridium)	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and lactate II	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and lactate II	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Cellobiose	19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Cellobiose	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Glutamate	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Glutamate	2	6	6	6	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol II	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol II	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Others	12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Others	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Pyruvate to leucine	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Pyruvate to leucine	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Hemin transporter [mD:m00257]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Hemin transporter [mD:m00257]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/iron transporter [mD:m00243]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/iron transporter [mD:m00243]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Arginine and proline metabolism	06_Amino acid utilization biosynthesis metabolism#Arginine and proline metabolism	19	25	23	25	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Enzyme II_glucose-specific  component [mD:m00265]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Enzyme II_glucose-specific  component [mD:m00265]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Aromatic acid:h+ symporter (AAhs) family [tc:2.A.1.15]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Aromatic acid:h+ symporter (AAhs) family [tc:2.A.1.15]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Simple sugar transporter [mD:m00221]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Simple sugar transporter [mD:m00221]	1	4	4	4	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Putative phosphonate transporter [mD:m00224]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Putative phosphonate transporter [mD:m00224]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#2-O-A-mannosyl-D-glycerate-specific II component [mD:m00305]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#2-O-A-mannosyl-D-glycerate-specific II component [mD:m00305]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Deamination of cystein and methionine	06_Amino acid utilization biosynthesis metabolism#Deamination of cystein and methionine	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Arbutin-like II component [mD:m00268]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Arbutin-like II component [mD:m00268]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipopolysaccharide transporter [mD:m00320]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipopolysaccharide transporter [mD:m00320]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation X	06_Amino acid utilization biosynthesis metabolism#Lysine degradation X	1	2	2	2	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation IX	06_Amino acid utilization biosynthesis metabolism#Lysine degradation IX	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Cobalt transporter [mD:m00245]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Cobalt transporter [mD:m00245]	3	10	10	10	FOAM
+19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Murein	19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Murein	6	14	10	14	FOAM
+01_Fermentation#Acetoin biosynthesis#Superpathway of 2,3-butanediol biosynthesis	01_Fermentation#Acetoin biosynthesis#Superpathway of 2,3-butanediol biosynthesis	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Orphan ABC Atpase	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Orphan ABC Atpase	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Capsular polysaccharide transporter [mD:m00249]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Capsular polysaccharide transporter [mD:m00249]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II component [mD:m00273]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II component [mD:m00273]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Mannose-specific II component [mD:m00276]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Mannose-specific II component [mD:m00276]	0	0	0	0	FOAM
+04_Utililization of sugar, conversion of pentose to EMP pathway intermediates#Pentose	04_Utililization of sugar, conversion of pentose to EMP pathway intermediates#Pentose	0	0	0	0	FOAM
+02_Homoacetogenesis#Acetate formation from acetyl-coA II	02_Homoacetogenesis#Acetate formation from acetyl-coA II	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Mucin type O-glycan biosynthesis	19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Mucin type O-glycan biosynthesis	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Anion:cation symporter (Acs) family [tc:2.A.1.14]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Anion:cation symporter (Acs) family [tc:2.A.1.14]	0	0	0	0	FOAM
+20_Hydrolysis of polymers#Chitin	20_Hydrolysis of polymers#Chitin	2	6	6	6	FOAM
+01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum acidogenic and solventogenic fermentation	01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum acidogenic and solventogenic fermentation	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfur disproportionation	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfur disproportionation	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VI	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VI	1	2	2	2	FOAM
+04_Utililization of sugar, conversion of pentose to EMP pathway intermediates#Hexose	04_Utililization of sugar, conversion of pentose to EMP pathway intermediates#Hexose	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Alpha-glucoside transporter [mD:m00201]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Alpha-glucoside transporter [mD:m00201]	0	0	0	0	FOAM
+20_Hydrolysis of polymers#Starch	20_Hydrolysis of polymers#Starch	2	2	2	2	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation II	06_Amino acid utilization biosynthesis metabolism#Lysine degradation II	0	0	0	0	FOAM
+10_TCA cycle#TCA cycle	10_TCA cycle#TCA cycle	1	1	1	1	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation Iv	06_Amino acid utilization biosynthesis metabolism#Lysine degradation Iv	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Histidine	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Histidine	17	32	31	32	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Mannitol-specific II component [mD:m00274]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Mannitol-specific II component [mD:m00274]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Assimilatory nitrate reduction#Nitrate to ammonia	11_Nitrogen cycle#Nitrogenated compounds Reduction#Assimilatory nitrate reduction#Nitrate to ammonia	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Bicarbonate transporter [mD:m00321]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Bicarbonate transporter [mD:m00321]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrite oxide to nitrous oxide	11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrite oxide to nitrous oxide	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-2 (14 spanner) (DhA2) family [tc:2.A.1.3]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-2 (14 spanner) (DhA2) family [tc:2.A.1.3]	1	3	3	3	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative ABC transporter [mD:m00211]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative ABC transporter [mD:m00211]	0	0	0	0	FOAM
+02_Homoacetogenesis#Acetate formation from acetyl-coA I	02_Homoacetogenesis#Acetate formation from acetyl-coA I	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation vI	06_Amino acid utilization biosynthesis metabolism#Lysine degradation vI	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative tungstate transporter [mD:m00186]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative tungstate transporter [mD:m00186]	0	0	0	0	FOAM
+21_Cellular response to stress#Cellular response to osmotic stress	21_Cellular response to stress#Cellular response to osmotic stress	4	4	4	4	FOAM
+20_Hydrolysis of polymers#Cellulose	20_Hydrolysis of polymers#Cellulose	1	6	6	6	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#D-Allose transporter [mD:m00217]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#D-Allose transporter [mD:m00217]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Maltose/maltodextrin transporter [mD:m00194]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Maltose/maltodextrin transporter [mD:m00194]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Fosmidomycin resistance (Fsr) family [tc:2.A.1.35]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Fosmidomycin resistance (Fsr) family [tc:2.A.1.35]	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Osmoprotectant transporter [mD:m00209]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Osmoprotectant transporter [mD:m00209]	1	1	1	1	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VIII	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VIII	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol III	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol III	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative thiamine transporter [mD:m00192]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative thiamine transporter [mD:m00192]	0	0	0	0	FOAM
+01_Fermentation#Lysine fermentation to acetate and butyrate	01_Fermentation#Lysine fermentation to acetate and butyrate	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Fucose:h+ symporter (Fhs) family [tc:2.A.1.7]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Fucose:h+ symporter (Fhs) family [tc:2.A.1.7]	0	0	0	0	FOAM
+07_Nucleic acid metabolism#Pyrimidine metabolism	07_Nucleic acid metabolism#Pyrimidine metabolism	19	25	25	25	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Glucose/arabinose transporter [mD:m00203]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Glucose/arabinose transporter [mD:m00203]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipopolysaccharide transporter [mD:m00250]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipopolysaccharide transporter [mD:m00250]	0	0	0	0	FOAM
+15_Methylotrophy#Methylamine to formaldehyde	15_Methylotrophy#Methylamine to formaldehyde	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#Glutathione transporter [mD:m00348]	12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#Glutathione transporter [mD:m00348]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Oligogalacturonide transporter [mD:m00202]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Oligogalacturonide transporter [mD:m00202]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Sorbitol/mannitol transporter [mD:m00200]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Sorbitol/mannitol transporter [mD:m00200]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Urea transporter [mD:m00323]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Urea transporter [mD:m00323]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrification (aerobic ammonia oxydation, bacterial and archea)#Ammonia to hydroxylamine	11_Nitrogen cycle#Nitrification (aerobic ammonia oxydation, bacterial and archea)#Ammonia to hydroxylamine	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrous oxide to nitrogen	11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrous oxide to nitrogen	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Iron/zinc/copper transporter [mD:m00318]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Iron/zinc/copper transporter [mD:m00318]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation VII	06_Amino acid utilization biosynthesis metabolism#Lysine degradation VII	0	0	0	0	FOAM
+05_Fatty acid oxidation#Fatty acid beta-oxidation II (core pathway)	05_Fatty acid oxidation#Fatty acid beta-oxidation II (core pathway)	2	2	2	2	FOAM
+21_Cellular response to stress#Response to osmotic stress	21_Cellular response to stress#Response to osmotic stress	80	158	99	158	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfolactate degradation	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfolactate degradation	3	5	5	5	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Cell division transporter [mD:m00256]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Cell division transporter [mD:m00256]	2	2	2	2	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Oxaloacetate to aspartate and asparagine	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Oxaloacetate to aspartate and asparagine	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Cellobiose transporter [mD:m00206]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Cellobiose transporter [mD:m00206]	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Lactose	19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Lactose	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Monocarboxylate porter (mcp) family [tc:2.A.1.13]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Monocarboxylate porter (mcp) family [tc:2.A.1.13]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Cystine transporter [mD:m00234]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Cystine transporter [mD:m00234]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Antibiotic ABC transporter [mD:m00248]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Antibiotic ABC transporter [mD:m00248]	2	3	3	3	FOAM
+08_Hydrocarbon degradation#Other aromatics degradation	08_Hydrocarbon degradation#Other aromatics degradation	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Histidine transporter [mD:m00226]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Histidine transporter [mD:m00226]	0	0	0	0	FOAM
+21_Cellular response to stress#Regulation of stress-activated protein kinase signaling cascade	21_Cellular response to stress#Regulation of stress-activated protein kinase signaling cascade	1	2	2	2	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Putative aromatic compound/drug exporter (AcDE) family [tc:2.A.1.32]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Putative aromatic compound/drug exporter (AcDE) family [tc:2.A.1.32]	1	2	2	2	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#ABC-2 type transporter [mD:m00254]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#ABC-2 type transporter [mD:m00254]	2	9	9	9	FOAM
+15_Methylotrophy#Formaldehyde oxidation (h4mpt pathway)	15_Methylotrophy#Formaldehyde oxidation (h4mpt pathway)	1	4	4	4	FOAM
+06_Amino acid utilization biosynthesis metabolism#Valine, leucine and isoleucine biosynthesis	06_Amino acid utilization biosynthesis metabolism#Valine, leucine and isoleucine biosynthesis	5	12	12	12	FOAM
+14_Methanogenesis#From methylamine	14_Methanogenesis#From methylamine	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Neutral amino acid transporter [mD:m00322]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Neutral amino acid transporter [mD:m00322]	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum solventogenic fermentation	01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum solventogenic fermentation	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Nickel resistance (nre) [tc:2.A.1.31]	12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Nickel resistance (nre) [tc:2.A.1.31]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Glycine, serine and threonine metabolism	06_Amino acid utilization biosynthesis metabolism#Glycine, serine and threonine metabolism	14	23	21	23	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Assimilatory nitrate reduction#Nitrate to nitrite	11_Nitrogen cycle#Nitrogenated compounds Reduction#Assimilatory nitrate reduction#Nitrate to nitrite	0	0	0	0	FOAM
+21_Cellular response to stress#Trehalose metabolism in response to cold stress	21_Cellular response to stress#Trehalose metabolism in response to cold stress	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Putative glutamine transporter [mD:m00228]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Putative glutamine transporter [mD:m00228]	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Sulfate transporter [mD:m00185]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Sulfate transporter [mD:m00185]	0	0	0	0	FOAM
+09_Carbohydrate Active enzyme - CAZy#Polysaccharide lyase	09_Carbohydrate Active enzyme - CAZy#Polysaccharide lyase	0	0	0	0	FOAM
+13_Hydrogen metabolism#Hydrogen production VII (chlorophyta, cyanobacteria)	13_Hydrogen metabolism#Hydrogen production VII (chlorophyta, cyanobacteria)	2	4	4	4	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Putative YqgE transporter (YqgE) family [tc:2.A.1.33]	12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Putative YqgE transporter (YqgE) family [tc:2.A.1.33]	0	0	0	0	FOAM
+01_Fermentation#Acetylene degradation	01_Fermentation#Acetylene degradation	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Methionine biosynthesis	06_Amino acid utilization biosynthesis metabolism#Methionine biosynthesis	2	4	4	4	FOAM
+08_Hydrocarbon degradation#Hydrocarbon degradation	08_Hydrocarbon degradation#Hydrocarbon degradation	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Dissimilatory nitrate reduction#Nitrate to ammonia	11_Nitrogen cycle#Nitrogenated compounds Reduction#Dissimilatory nitrate reduction#Nitrate to ammonia	2	4	4	4	FOAM
+09_Carbohydrate Active enzyme - CAZy#Carbohydrate esterase	09_Carbohydrate Active enzyme - CAZy#Carbohydrate esterase	4	4	4	4	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Phosphate and organophosphate transporters#Phosphate:h+ symporter (phs) family [tc:2.A.1.9]	12_Transporters#Major Facilitator superfamily (MFS)#Phosphate and organophosphate transporters#Phosphate:h+ symporter (phs) family [tc:2.A.1.9]	0	0	0	0	FOAM
+01_Fermentation#Glutamate degradation V (via hydroxyglutarate)	01_Fermentation#Glutamate degradation V (via hydroxyglutarate)	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Cysteine and methionine	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Cysteine and methionine	16	46	42	46	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Ribose transporter [mD:m00212]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Ribose transporter [mD:m00212]	0	0	0	0	FOAM
+05_Fatty acid oxidation#Fatty acid alpha-oxidation	05_Fatty acid oxidation#Fatty acid alpha-oxidation	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Maltooligosaccharide transporter [mD:m00195]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Maltooligosaccharide transporter [mD:m00195]	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#(R)-acetoin biosynthesis II	01_Fermentation#Acetoin biosynthesis#(R)-acetoin biosynthesis II	0	0	0	0	FOAM
+05_Fatty acid oxidation#Fatty acid beta-oxidation I	05_Fatty acid oxidation#Fatty acid beta-oxidation I	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfite oxidation	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfite oxidation	0	0	0	0	FOAM
+07_Nucleic acid metabolism#Degradation of purine bases	07_Nucleic acid metabolism#Degradation of purine bases	4	6	6	6	FOAM
+08_Hydrocarbon degradation#Polycyclic aromatic hydrocarbon degradation	08_Hydrocarbon degradation#Polycyclic aromatic hydrocarbon degradation	2	12	12	12	FOAM
+15_Methylotrophy#Methanol oxidation to formaldehyde	15_Methylotrophy#Methanol oxidation to formaldehyde	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Oligosaccharide:h+ symporter (ohs) family [tc:2.A.1.5]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Oligosaccharide:h+ symporter (ohs) family [tc:2.A.1.5]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Polar amino acid transporter [mD:m00236]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Polar amino acid transporter [mD:m00236]	3	10	8	10	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-3 (12 spanner) (DhA3) [tc:2.A.1.21]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-3 (12 spanner) (DhA3) [tc:2.A.1.21]	1	1	1	1	FOAM
+01_Fermentation#Mixed acid fermentation	01_Fermentation#Mixed acid fermentation	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/zinc/iron transporter [mD:m00319]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/zinc/iron transporter [mD:m00319]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Proton coupled folate transporter/heme carrier protein (pcFt/hcp) family [tc:2.A.1.50]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Proton coupled folate transporter/heme carrier protein (pcFt/hcp) family [tc:2.A.1.50]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamate transporter [mD:m00233]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamate transporter [mD:m00233]	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfoacetaldehyde degradation	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfoacetaldehyde degradation	0	0	0	0	FOAM
+15_Methylotrophy#RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	15_Methylotrophy#RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Transamination	06_Amino acid utilization biosynthesis metabolism#Transamination	1	3	3	3	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Phosphate transporter [mD:m00222]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Phosphate transporter [mD:m00222]	4	4	4	4	FOAM
+10_TCA cycle#Replenishment of TCA cycle intermediates (necessary because some intermediates serve as precursors for biosysnthesis)	10_TCA cycle#Replenishment of TCA cycle intermediates (necessary because some intermediates serve as precursors for biosysnthesis)	0	0	0	0	FOAM
+21_Cellular response to stress#Cellular response to cation stress	21_Cellular response to stress#Cellular response to cation stress	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#Microcin c transporter [mD:m00349]	12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#Microcin c transporter [mD:m00349]	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#(R)-acetoin biosynthesis I	01_Fermentation#Acetoin biosynthesis#(R)-acetoin biosynthesis I	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#General l-amino acid transporter [mD:m00232]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#General l-amino acid transporter [mD:m00232]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Histidine degradation	06_Amino acid utilization biosynthesis metabolism#Histidine degradation	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Phosphonate transporter [mD:m00223]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Phosphonate transporter [mD:m00223]	1	4	4	4	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Sn-glycerol 3-phosphate transporter [mD:m00198]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Sn-glycerol 3-phosphate transporter [mD:m00198]	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#(s,s)-butanediol biosynthesis	01_Fermentation#Acetoin biosynthesis#(s,s)-butanediol biosynthesis	0	0	0	0	FOAM
+01_Fermentation#Pyruvate fermentation to butanol	01_Fermentation#Pyruvate fermentation to butanol	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine biosynthesis	06_Amino acid utilization biosynthesis metabolism#Lysine biosynthesis	6	9	9	9	FOAM
+01_Fermentation#Heterolactic fermentation	01_Fermentation#Heterolactic fermentation	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II-like component [mD:m00306]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II-like component [mD:m00306]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Putative ABC transporter [mD:m00315]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Putative ABC transporter [mD:m00315]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Tryptophan metabolism	06_Amino acid utilization biosynthesis metabolism#Tryptophan metabolism	4	4	3	4	FOAM
+20_Hydrolysis of polymers#Arabinose	20_Hydrolysis of polymers#Arabinose	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative sulfate transporter [mD:m00187]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative sulfate transporter [mD:m00187]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Sialate:h+ symporter (shs) family [tc:2.A.1.12]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Sialate:h+ symporter (shs) family [tc:2.A.1.12]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Acriflavin-sensitivity (Ynfm) family [tc:2.A.1.36]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Acriflavin-sensitivity (Ynfm) family [tc:2.A.1.36]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Organic cation transporter (oct) family [tc:2.A.1.19]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Organic cation transporter (oct) family [tc:2.A.1.19]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#N-Acetylglucosamine transporter [mD:m00205]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#N-Acetylglucosamine transporter [mD:m00205]	0	0	0	0	FOAM
+14_Methanogenesis#From formate	14_Methanogenesis#From formate	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Galactosamine-specific II component [mD:m00287]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Galactosamine-specific II component [mD:m00287]	0	0	0	0	FOAM
+08_Hydrocarbon degradation#Chlorinated aromatics degradation	08_Hydrocarbon degradation#Chlorinated aromatics degradation	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Unknown major facilitator-2 (UmF2) [tc:2.A.1.26]	12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Unknown major facilitator-2 (UmF2) [tc:2.A.1.26]	1	3	3	3	FOAM
+14_Methanogenesis#From CO2	14_Methanogenesis#From CO2	10	36	34	36	FOAM
+06_Amino acid utilization biosynthesis metabolism#Aminoacid dehydratase	06_Amino acid utilization biosynthesis metabolism#Aminoacid dehydratase	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Peptide-acetyl-coA transporter (pAt) [tc:2.A.1.25]	12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Peptide-acetyl-coA transporter (pAt) [tc:2.A.1.25]	0	0	0	0	FOAM
+15_Methylotrophy#Methane oxydation	15_Methylotrophy#Methane oxydation	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Zinc/manganese transporter [mD:m00244]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Zinc/manganese transporter [mD:m00244]	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and lactate I	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and lactate I	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Thiosulfate disproportionation	18_Sulfur compounds metabolism#Sulfur compounds cycle#Thiosulfate disproportionation	3	5	5	5	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Phosphocarrier protein hpr	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Phosphocarrier protein hpr	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#PEP	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#PEP	15	30	22	30	FOAM
+06_Amino acid utilization biosynthesis metabolism#Methionine degradation	06_Amino acid utilization biosynthesis metabolism#Methionine degradation	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Superpathway of sulfur metabolism (Desulfocapsa sulfoexigens)	18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Superpathway of sulfur metabolism (Desulfocapsa sulfoexigens)	0	0	0	0	FOAM
+07_Nucleic acid metabolism#Purine metabolism	07_Nucleic acid metabolism#Purine metabolism	71	132	87	132	FOAM
+11_Nitrogen cycle#Nitrification#Nitrite to nitrate	11_Nitrogen cycle#Nitrification#Nitrite to nitrate	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylgalactosamine-specific II component [mD:m00277]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylgalactosamine-specific II component [mD:m00277]	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Sucrose	19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Sucrose	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate IV	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate IV	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Fructose transporter [mD:m00218]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Fructose transporter [mD:m00218]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamine transporter [mD:m00227]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamine transporter [mD:m00227]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Heme transporter [mD:m00259]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Heme transporter [mD:m00259]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Iron(III) transporter [mD:m00190]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Iron(III) transporter [mD:m00190]	0	0	0	0	FOAM
+09_Carbohydrate Active enzyme - CAZy#Glycosyltransferase	09_Carbohydrate Active enzyme - CAZy#Glycosyltransferase	7	10	9	10	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipoprotein-releasing transporter [mD:m00255]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Lipoprotein-releasing transporter [mD:m00255]	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#Meso-butanediol biosynthesis I	01_Fermentation#Acetoin biosynthesis#Meso-butanediol biosynthesis I	0	0	0	0	FOAM
+01_Fermentation#Succinate fermentation to butyrate	01_Fermentation#Succinate fermentation to butyrate	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Vesicular neurotransmitter transporter (vnt) [tc:2.A.1.22]	12_Transporters#Major Facilitator superfamily (MFS)#Protein transporters#Vesicular neurotransmitter transporter (vnt) [tc:2.A.1.22]	0	0	0	0	FOAM
+15_Methylotrophy#Methane oxidation to cO2	15_Methylotrophy#Methane oxidation to cO2	4	8	5	8	FOAM
+14_Methanogenesis#From methanol	14_Methanogenesis#From methanol	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Octopine/nopaline transporter [mD:m00231]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Octopine/nopaline transporter [mD:m00231]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Glycine betaine/proline transporter [mD:m00208]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Glycine betaine/proline transporter [mD:m00208]	3	3	3	3	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Iron complex transporter [mD:m00240]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Iron complex transporter [mD:m00240]	2	5	5	5	FOAM
+15_Methylotrophy#Formaldehyde oxidation (glutathione-dependent)	15_Methylotrophy#Formaldehyde oxidation (glutathione-dependent)	2	11	11	11	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Siderophore-iron transporter (sIt) [tc:2.A.1.16]	12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Siderophore-iron transporter (sIt) [tc:2.A.1.16]	0	0	0	0	FOAM
+20_Hydrolysis of polymers#Pectin	20_Hydrolysis of polymers#Pectin	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Maltose and glucose-specific II component [mD:m00266]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Maltose and glucose-specific II component [mD:m00266]	0	0	0	0	FOAM
+05_Fatty acid oxidation#Fatty acid activation	05_Fatty acid oxidation#Fatty acid activation	1	1	1	1	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VII	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate VII	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Oxaloacetate to lysine	06_Amino acid utilization biosynthesis metabolism#Amino acid biosynthesis precursor pyruvate and oxaloacetate#Oxaloacetate to lysine	3	7	7	7	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Phenylproprionate permease (ppp) [tc:2.A.1.27]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Phenylproprionate permease (ppp) [tc:2.A.1.27]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Glucitol/sorbitol-specific II component [mD:m00280]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Glucitol/sorbitol-specific II component [mD:m00280]	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfate reduction (dissimilatory)	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfate reduction (dissimilatory)	2	4	2	4	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Lactose-specific	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Lactose-specific	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Maltose	19_Saccharide and derivated synthesis#Disaccaride phosphorylase#Maltose	0	0	0	0	FOAM
+03_Superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans)	03_Superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans)	0	0	0	0	FOAM
+08_Hydrocarbon degradation#Aromatic carboxylic acid degradation	08_Hydrocarbon degradation#Aromatic carboxylic acid degradation	4	4	4	4	FOAM
+21_Cellular response to stress#Regulation of translation in response to oxidative stress	21_Cellular response to stress#Regulation of translation in response to oxidative stress	2	2	1	2	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol I	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to ethanol I	1	1	1	1	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate III	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate III	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Nitrate/nitrite transporters#Nitrate/nitrite porter (nnp) family [tc:2.A.1.8]	12_Transporters#Major Facilitator superfamily (MFS)#Nitrate/nitrite transporters#Nitrate/nitrite porter (nnp) family [tc:2.A.1.8]	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to propionate II (acrylate pathway)	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to propionate II (acrylate pathway)	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to lactate	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to lactate	2	5	5	5	FOAM
+12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#PEPtides/nickel transporter [mD:m00239]	12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#PEPtides/nickel transporter [mD:m00239]	5	13	11	13	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to butanoate	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to butanoate	0	0	0	0	FOAM
+20_Hydrolysis of polymers#Mannose	20_Hydrolysis of polymers#Mannose	3	10	8	10	FOAM
+11_Nitrogen cycle#Nitrification (aerobic ammonia oxydation, bacterial and archea)#Hydroxylamine to nitrite	11_Nitrogen cycle#Nitrification (aerobic ammonia oxydation, bacterial and archea)#Hydroxylamine to nitrite	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putrescine transporter [mD:m00300]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putrescine transporter [mD:m00300]	0	0	0	0	FOAM
+15_Methylotrophy#Serine pathway for formaldehyde fixation	15_Methylotrophy#Serine pathway for formaldehyde fixation	2	2	2	2	FOAM
+05_Fatty acid oxidation#Fatty acid omega-oxidation	05_Fatty acid oxidation#Fatty acid omega-oxidation	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum acidogenic fermentation	01_Fermentation#Pyruvate Fermentation#Superpathway of clostridium acetobutylicum acidogenic fermentation	0	0	0	0	FOAM
+21_Cellular response to stress#Cellular response to oxidative stress	21_Cellular response to stress#Cellular response to oxidative stress	4	4	3	4	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative spermidine/putrescine transporter [mD:m00193]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Putative spermidine/putrescine transporter [mD:m00193]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Cysteine and methionine metabolism	06_Amino acid utilization biosynthesis metabolism#Cysteine and methionine metabolism	6	7	7	7	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Sugar porter (sp) family [tc:2.A.1.1]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Sugar porter (sp) family [tc:2.A.1.1]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II component [mD:m00304]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Fructose-specific II component [mD:m00304]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-1 (12 spanner) (DhA1) family [tc:2.A.1.2]	12_Transporters#Major Facilitator superfamily (MFS)#Drug transporters#Drug:h+ antiporter-1 (12 spanner) (DhA1) family [tc:2.A.1.2]	2	3	3	3	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Lactose/l-arabinose transporter [mD:m00199]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Lactose/l-arabinose transporter [mD:m00199]	0	0	0	0	FOAM
+14_Methanogenesis#From trimethylamine	14_Methanogenesis#From trimethylamine	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamate/aspartate transporter [mD:m00230]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Glutamate/aspartate transporter [mD:m00230]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Hydroxylamine reduction	11_Nitrogen cycle#Nitrogenated compounds Reduction#Hydroxylamine reduction	1	1	1	1	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Bacitracin transporter [mD:m00314]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Bacitracin transporter [mD:m00314]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Lipid transporters#Lysophospholipid transporter (lplt) family [tc:2.A.1.42]	12_Transporters#Major Facilitator superfamily (MFS)#Lipid transporters#Lysophospholipid transporter (lplt) family [tc:2.A.1.42]	0	0	0	0	FOAM
+01_Fermentation#Bifidobacterium shunt	01_Fermentation#Bifidobacterium shunt	0	0	0	0	FOAM
+08_Hydrocarbon degradation#BTEX and related aromatics degradation	08_Hydrocarbon degradation#BTEX and related aromatics degradation	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/iron transporter [mD:m00317]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Manganese/iron transporter [mD:m00317]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Phosphate and organophosphate transporters#Organophosphate:pi antiporter (opA) family [tc:2.A.1.4]	12_Transporters#Major Facilitator superfamily (MFS)#Phosphate and organophosphate transporters#Organophosphate:pi antiporter (opA) family [tc:2.A.1.4]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative ABC transporter [mD:m00210]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative ABC transporter [mD:m00210]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Lysine/arginine/ornithine transporter [mD:m00225]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Lysine/arginine/ornithine transporter [mD:m00225]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#D-glucosamine-specific II component [mD:m00282]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#D-glucosamine-specific II component [mD:m00282]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Cellobiose-specific II component [mD:m00275]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Cellobiose-specific II component [mD:m00275]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#DiPEPtide transporter [mD:m00324]	12_Transporters#ABC transporters, prokaryotic type#PEPtide and nickel transporters#DiPEPtide transporter [mD:m00324]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Sodium transporter [mD:m00253]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Sodium transporter [mD:m00253]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Multiple sugar transporter [mD:m00207]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Multiple sugar transporter [mD:m00207]	3	6	6	6	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Putative bacteriochlorophyll delivery (bcD) family [tc:2.A.1.41]	12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Putative bacteriochlorophyll delivery (bcD) family [tc:2.A.1.41]	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Sulfide oxidation III or sulfur oxidation I (sulfur dioxygenase)	18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Sulfide oxidation III or sulfur oxidation I (sulfur dioxygenase)	2	2	1	2	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Arginine transporter [mD:m00229]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Arginine transporter [mD:m00229]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative sugar transporter [mD:m00197]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Putative sugar transporter [mD:m00197]	1	1	1	1	FOAM
+17_Gluconeogenesis#Gluconeogenesis	17_Gluconeogenesis#Gluconeogenesis	4	9	5	9	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Ascorbate-specific II component [mD:m00283]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Ascorbate-specific II component [mD:m00283]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Oxalate:formate antiporter (oFA) family [tc:2.A.1.11]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Oxalate:formate antiporter (oFA) family [tc:2.A.1.11]	0	0	0	0	FOAM
+08_Hydrocarbon degradation#Heterocyclic aromatics degradation	08_Hydrocarbon degradation#Heterocyclic aromatics degradation	0	0	0	0	FOAM
+21_Cellular response to stress#Regulation of response to osmotic stress	21_Cellular response to stress#Regulation of response to osmotic stress	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Teichoic acid transporter [mD:m00251]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Teichoic acid transporter [mD:m00251]	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#(s)-acetoin biosynthesis	01_Fermentation#Acetoin biosynthesis#(s)-acetoin biosynthesis	0	0	0	0	FOAM
+21_Cellular response to stress#Response to oxidative stress	21_Cellular response to stress#Response to oxidative stress	7	11	9	11	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Trehalose/maltose transporter [mD:m00204]	12_Transporters#ABC transporters, prokaryotic type#Oligosaccharide and polyol transporters#Trehalose/maltose transporter [mD:m00204]	0	0	0	0	FOAM
+16_Embden Meyerhof-Parnos (EMP)#EMP  in archea	16_Embden Meyerhof-Parnos (EMP)#EMP  in archea	3	5	5	5	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Unknown major facilitator-1 (UmF1) [tc:2.A.1.24]	12_Transporters#Major Facilitator superfamily (MFS)#Unknown transporters#Unknown major facilitator-1 (UmF1) [tc:2.A.1.24]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#D-methionine transporter [mD:m00238]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#D-methionine transporter [mD:m00238]	1	1	1	1	FOAM
+18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfate reduction (assimilatory)	18_Sulfur compounds metabolism#Sulfur compounds cycle#Sulfate reduction (assimilatory)	2	2	2	2	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Arginine/ornithine transporter [mD:m00235]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Arginine/ornithine transporter [mD:m00235]	0	0	0	0	FOAM
+11_Nitrogen cycle#Ammonia assimilation	11_Nitrogen cycle#Ammonia assimilation	5	13	13	13	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation VIII	06_Amino acid utilization biosynthesis metabolism#Lysine degradation VIII	0	0	0	0	FOAM
+16_Embden Meyerhof-Parnos (EMP)#EMP	16_Embden Meyerhof-Parnos (EMP)#EMP	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and alanine	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate and alanine	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#D-glutamine and D-glutamate metabolism	06_Amino acid utilization biosynthesis metabolism#D-glutamine and D-glutamate metabolism	1	1	1	1	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation I	06_Amino acid utilization biosynthesis metabolism#Lysine degradation I	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#Acetoin biosynthesis III	01_Fermentation#Acetoin biosynthesis#Acetoin biosynthesis III	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Thiamine transporter [mD:m00191]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Thiamine transporter [mD:m00191]	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Valine, leucine and isoleucine degradation	06_Amino acid utilization biosynthesis metabolism#Valine, leucine and isoleucine degradation	1	1	1	1	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate I	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate I	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Hybrid protein	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Hybrid protein	0	0	0	0	FOAM
+01_Fermentation#Acetoin biosynthesis#Superpathway of (R,R)-butanediol biosynthesis	01_Fermentation#Acetoin biosynthesis#Superpathway of (R,R)-butanediol biosynthesis	2	6	6	6	FOAM
+16_Embden Meyerhof-Parnos (EMP)#EMP modified pathway	16_Embden Meyerhof-Parnos (EMP)#EMP modified pathway	4	6	5	6	FOAM
+08_Hydrocarbon degradation#Polycyclic aromatics degradation	08_Hydrocarbon degradation#Polycyclic aromatics degradation	1	1	1	1	FOAM
+21_Cellular response to stress#Regulation of translational initiation in response to osmotic stress	21_Cellular response to stress#Regulation of translational initiation in response to osmotic stress	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Teta-glucosides-specific II component [mD:m00271]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Teta-glucosides-specific II component [mD:m00271]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Rhamnose transporter [mD:m00220]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Rhamnose transporter [mD:m00220]	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#N-glycan biosynthesis	19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#N-glycan biosynthesis	2	2	2	2	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Vitamin b12 transporter [mD:m00241]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Vitamin b12 transporter [mD:m00241]	0	0	0	0	FOAM
+08_Hydrocarbon degradation#Nitoaromatics degradation	08_Hydrocarbon degradation#Nitoaromatics degradation	1	3	3	3	FOAM
+06_Amino acid utilization biosynthesis metabolism#Lysine degradation v	06_Amino acid utilization biosynthesis metabolism#Lysine degradation v	0	0	0	0	FOAM
+10_TCA cycle#Reductive TCA cycle	10_TCA cycle#Reductive TCA cycle	10	35	29	35	FOAM
+21_Cellular response to stress#Response to nitrosative stress	21_Cellular response to stress#Response to nitrosative stress	7	10	9	10	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Methyl-galactoside transporter [mD:m00214]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Methyl-galactoside transporter [mD:m00214]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#L-Amino acid transporter-3 (lAt3) family (slc43 family) [tc:2.A.1.44]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#L-Amino acid transporter-3 (lAt3) family (slc43 family) [tc:2.A.1.44]	0	0	0	0	FOAM
+16_Embden Meyerhof-Parnos (EMP)#Glycolysis III (EMP)	16_Embden Meyerhof-Parnos (EMP)#Glycolysis III (EMP)	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Sulfonate/nitrate/taurine transporter [mD:m00188]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Sulfonate/nitrate/taurine transporter [mD:m00188]	3	18	18	18	FOAM
+13_Hydrogen metabolism#Hydrogen oxidation aerobic	13_Hydrogen metabolism#Hydrogen oxidation aerobic	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Molybdate transporter [mD:m00189]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Molybdate transporter [mD:m00189]	3	4	4	4	FOAM
+06_Amino acid utilization biosynthesis metabolism#Alanine, aspartate and glutamate metabolism (contain asparagin as well)	06_Amino acid utilization biosynthesis metabolism#Alanine, aspartate and glutamate metabolism (contain asparagin as well)	2	2	2	2	FOAM
+02_Homoacetogenesis#Glycolysis	02_Homoacetogenesis#Glycolysis	5	6	6	6	FOAM
+20_Hydrolysis of polymers#Xylose	20_Hydrolysis of polymers#Xylose	7	12	12	12	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrate to nitrite	11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrate to nitrite	2	2	2	2	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylglucosamine-specific II component [mD:m00267]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylglucosamine-specific II component [mD:m00267]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr# arbutin-, cellobiose-, and salicin-specific II component [mD:m00272]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr# arbutin-, cellobiose-, and salicin-specific II component [mD:m00272]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#D-Xylose transporter [mD:m00215]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#D-Xylose transporter [mD:m00215]	0	0	0	0	FOAM
+07_Nucleic acid metabolism#Degradation of pyrimidine bases	07_Nucleic acid metabolism#Degradation of pyrimidine bases	2	3	3	3	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Spermidine/putrescine transporter [mD:m00299]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Spermidine/putrescine transporter [mD:m00299]	4	4	4	4	FOAM
+15_Methylotrophy#Formaldehyde oxidation (tetrahydrofolate pathway)	15_Methylotrophy#Formaldehyde oxidation (tetrahydrofolate pathway)	5	10	2	10	FOAM
+09_Carbohydrate Active enzyme - CAZy#Glycoside hydrolase	09_Carbohydrate Active enzyme - CAZy#Glycoside hydrolase	7	9	8	9	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Multidrug/hemolysin transporter [mD:m00298]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Multidrug/hemolysin transporter [mD:m00298]	0	0	0	0	FOAM
+10_TCA cycle#Incomplete TCA fork	10_TCA cycle#Incomplete TCA fork	4	12	8	12	FOAM
+06_Amino acid utilization biosynthesis metabolism#D-arginine and D-ornithine metabolism	06_Amino acid utilization biosynthesis metabolism#D-arginine and D-ornithine metabolism	0	0	0	0	FOAM
+19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Peptidoglycan biosynthesis	19_Saccharide and derivated synthesis#Polysaccharide biosynthesis and assembly of cell surface structure#Peptidoglycan biosynthesis	13	21	19	21	FOAM
+21_Cellular response to stress#Cellular response to stress	21_Cellular response to stress#Cellular response to stress	8	18	14	18	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Cyanate porter (cp) family [tc:2.A.1.17]	12_Transporters#Major Facilitator superfamily (MFS)#Organic acid transporters#Cyanate porter (cp) family [tc:2.A.1.17]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Uncharacterized ABC transporter [mD:m00258]	12_Transporters#ABC transporters, prokaryotic type#ABC-2 type and other transporters#Uncharacterized ABC transporter [mD:m00258]	2	9	9	9	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylmuramic acid-specific II component [mD:m00303]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#N-acetylmuramic acid-specific II component [mD:m00303]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogen Fixation	11_Nitrogen cycle#Nitrogen Fixation	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Putative multiple sugar transporter [mD:m00216]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#Putative multiple sugar transporter [mD:m00216]	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Zinc transporter [mD:m00242]	12_Transporters#ABC transporters, prokaryotic type# metallic cation, iron-siderophore and vitamin b12 transporters#Zinc transporter [mD:m00242]	3	3	3	3	FOAM
+L1#L2#L3#L4	L1#L2#L3#L4	0	0	0	0	FOAM
+02_Homoacetogenesis#Reductive acetyl coenzyme A pathway	02_Homoacetogenesis#Reductive acetyl coenzyme A pathway	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetone	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetone	0	0	0	0	FOAM
+18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Sulfite oxidation I (sulfite oxidoreductase)	18_Sulfur compounds metabolism#Chemoautotrophic oxidation of sulfur compounds#Sulfite oxidation I (sulfite oxidoreductase)	0	0	0	0	FOAM
+06_Amino acid utilization biosynthesis metabolism#Histidine biosynthesis, pRpp => histidine	06_Amino acid utilization biosynthesis metabolism#Histidine biosynthesis, pRpp => histidine	6	16	15	16	FOAM
+06_Amino acid utilization biosynthesis metabolism#Oxydation deamination	06_Amino acid utilization biosynthesis metabolism#Oxydation deamination	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Mannopine transporter [mD:m00301]	12_Transporters#ABC transporters, prokaryotic type#Mineral and organic ion transporters#Mannopine transporter [mD:m00301]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Nucleoside:h+ symporter (nhs) family [tc:2.A.1.10]	12_Transporters#Major Facilitator superfamily (MFS)#Sugar transporters#Nucleoside:h+ symporter (nhs) family [tc:2.A.1.10]	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Nitrogen regulatory II component	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Nitrogen regulatory II component	0	0	0	0	FOAM
+14_Methanogenesis#From acetate	14_Methanogenesis#From acetate	4	5	4	5	FOAM
+01_Fermentation#Acetoin biosynthesis#Meso-butanediol biosynthesis II	01_Fermentation#Acetoin biosynthesis#Meso-butanediol biosynthesis II	0	0	0	0	FOAM
+12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Galactitol-specific II component [mD:m00279]	12_Transporters#Phosphotransferase system (pts)#Enzyme I and hpr#Galactitol-specific II component [mD:m00279]	0	0	0	0	FOAM
+11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrite to nitrite oxide	11_Nitrogen cycle#Nitrogenated compounds Reduction#Denitrification#Nitrite to nitrite oxide	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Branched-chain amino acid transporter [mD:m00237]	12_Transporters#ABC transporters, prokaryotic type#Phosphate and amino acid transporters#Branched-chain amino acid transporter [mD:m00237]	5	10	10	10	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#AI-2 transporter [mD:m00219]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#AI-2 transporter [mD:m00219]	0	0	0	0	FOAM
+12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Enterobactin (siderophore) exporter (Ents) family [tc:2.A.1.38]	12_Transporters#Major Facilitator superfamily (MFS)#Metal transporters#Enterobactin (siderophore) exporter (Ents) family [tc:2.A.1.38]	0	0	0	0	FOAM
+01_Fermentation#Homolactic fermentation	01_Fermentation#Homolactic fermentation	0	0	0	0	FOAM
+01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate V	01_Fermentation#Pyruvate Fermentation#Pyruvate fermentation to acetate V	0	0	0	0	FOAM
+12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#L-Arabinose transporter [mD:m00213]	12_Transporters#ABC transporters, prokaryotic type#Monosaccharide transporters#L-Arabinose transporter [mD:m00213]	0	0	0	0	FOAM
