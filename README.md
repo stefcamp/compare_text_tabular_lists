@@ -8,3 +8,4 @@ Important notes:
 -the files have to be listed (one per line) in a file which is the only argument of the script,
 -lunch the script as "compare_N_lists_fast.pl list_of_files_to_be_merged.txt"
 -the output will be in "merged_lists.txt"
+-after launching the script you have to insert the number of columns of your files and press "enter"
